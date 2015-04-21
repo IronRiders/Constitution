@@ -32,7 +32,7 @@ The current officers announce the election two weeks prior to the election day. 
 
 Each Robotics Club Member will maintain their position for the entirety of the year. All officers must be actively involved in FIRST Robotics and be in good ethical standing. Each officer has the opportunity to be re-elected for the next FIRST season.
 
-A Robotics Club officer is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within one month of the officer stepping down.
+A Robotics Club officer is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within one month of the officer stepping down. If an officer leaves leadership between general elections, they cannot become a lead again until the next general election.
 
 If the officer continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current officer. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current Officer is removed from office and the challenger takes his/her position.
 
@@ -60,7 +60,7 @@ The signatures of a majority of The Leadership and the club advisors shall ratif
 
 ### Amendment 1: Bylaws
 
-This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes. 
+This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes.
 
 * A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
 * Anyone may propose a bylaw.
@@ -77,7 +77,7 @@ This Amendment hereby reduces the member requirement of a quorum from the previo
 
 ### Amendment 3: Leads in Emergency Elections
 
-In the case of a midseason vacancy of a position, if a lead runs for the spot, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate.
+In the case of a midseason vacancy of a position, if a lead runs for the spot, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
 
 ## Article 11: Bylaws
 
@@ -96,7 +96,7 @@ There will be a folder, accessible to all, in which important documents will be 
 * It will be the responsibility of the leads of each division to make sure a copy of all the important documents pertaining to that division is accessible within the file.
 * It will be the responsibility of the Leads to make sure a copy of all the important documents pertaining to the government of the club is accessible within the file.
 * The leads of each division will determine which documents are important.
-* A mentor may over rule a lead by placing or removing any document they deem necessary.
+* A mentor may overrule a lead by placing or removing any document they deem necessary.
 * This will be a hardcopy paper file or an electronic file.
 
 ### Bylaw #3
