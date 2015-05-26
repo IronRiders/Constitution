@@ -38,7 +38,13 @@ If the officer continues to not meet the expectations associated with their posi
 
 ## Article 5: Meetings
 
-Meetings will be held every day for work on the FIRST Robots after the club kickoff in September, with larger strategy and direction meetings on Wednesdays. Leadership meetings will be held on Tuesdays for a maximum of 1 hour. All meetings will happen in room 217 unless otherwise noted. A meeting agenda will be posted to the forums at least 48 hours in advance and a summary will be posted within 24 hours afterwards. Both of these jobs will be done by the President, Vice President, or otherwise delegated.
+### General Meetings
+
+Club meetings will start 15 minutes after school ends. Meetings will be held every day for work on the FIRST Robots after the club kickoff in September, with larger strategy and direction meetings on Wednesdays. All meetings will happen in room 217 unless otherwise noted. 
+
+### Leadership Meetings
+
+Leadership meetings will be held on Tuesdays (unless otherwise noted) for a maximum of 1 hour. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least two school days in advance and a summary will be posted within one school day. Both of these jobs will be done by the President, Vice President, or otherwise delegated. In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. At the next leads meeting, the absent lead can reopen a discussion or recall a vote from the previous meeting if they wish to do so. 
 
 ## Article 6: Advisor(s)
 
