@@ -7,7 +7,7 @@ This club will be referred to as The Roosevelt Robotics Club, or The Iron Riders
 
 ## Article 2: Purpose
 
-This club.s purpose is to include students interested in participating in the FIRST Robotics Competition, the FIRST Tech Challenge, in the construction of complex robots, advanced mechanics, competition strategy,  software programming, or any students interested in recruiting corporate sponsors, advertising/marketing, or business management. The goals of The Iron Riders are:
+This club's purpose is to include students interested in participating in the FIRST Robotics Competition, the FIRST Tech Challenge, in the construction of complex robots, advanced mechanics, competition strategy,  software programming, or any students interested in recruiting corporate sponsors, advertising/marketing, or business management. The goals of The Iron Riders are:
 * To compete in the FIRST Robotics Competition and FIRST Tech Challenge.
 * To gain members for growth and development of the Roosevelt community as well as FIRST Robotics.
 * To encourage leadership, engineering, programming, and high ethical standards respected in the business, engineering, and programming worlds.
@@ -25,7 +25,7 @@ A student leadership team will govern the Roosevelt Robotics club with the advic
 
 The club will consist of one President, a Vice President, a Project Manager, Hardware Lead, Software Lead, Business Lead, Design Lead, Strategy Lead, and a Safety Captain. They communicate and organize meetings. 
 
-These officers are responsible for organizing meetings and creating agendas for each meeting. Each officer will have meeting responsibilities divvied up in the by-laws. Each officer is expected to be present in a majority of the club.s strategy and direction meetings. 
+These officers are responsible for organizing meetings and creating agendas for each meeting. Each officer will have meeting responsibilities divvied up in the by-laws. Each officer is expected to be present in a majority of the club's strategy and direction meetings. 
 
 The current officers announce the election two weeks prior to the election day. Candidates announce their candidacy no later than one week prior to the election by submitting a written statement and speech. Officers are elected by running for the position and receiving a majority of votes from members who are voting, if there is competition for the position. Any uncontested position will be filled by volunteering. Elections will be held after the end of the build season but before the end of the school year. A meeting will be held for the candidates to present their positions, and voting will proceed at the next club meeting. In person attendance is required to vote. A candidate need not be present at the meeting to run, but must have submitted a written position when they declared their candidacy.
 
