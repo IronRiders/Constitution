@@ -1,11 +1,11 @@
 # Roosevelt High School Robotics Club Constitution
 Seattle, Washington
 
-## Article 1 . Name
+## Article 1: Name
 
 This club will be referred to as The Roosevelt Robotics Club, or The Iron Riders.
 
-## Article 2 . Purpose
+## Article 2: Purpose
 
 This club.s purpose is to include students interested in participating in the FIRST Robotics Competition, the FIRST Tech Challenge, in the construction of complex robots, advanced mechanics, competition strategy,  software programming, or any students interested in recruiting corporate sponsors, advertising/marketing, or business management. The goals of The Iron Riders are:
 * To compete in the FIRST Robotics Competition and FIRST Tech Challenge.
@@ -17,11 +17,11 @@ This club.s purpose is to include students interested in participating in the FI
 * To represent Roosevelt High School well and leave a respectable image as representatives of our school.
 * To uphold the values of the FIRST organization.
 
-## Article 3 . Organization
+## Article 3: Organization
 
 A student leadership team will govern the Roosevelt Robotics club with the advice and consent of the faculty advisors. The student leadership team is outlined in Articles 4 and 11. Each member of the leadership team must be in good standing as a FIRST member for the current FIRST season.
 
-## Article 4 . Officers
+## Article 4: Officers
 
 The club will consist of one President, a Vice President, a Project Manager, Hardware Lead, Software Lead, Business Lead, Design Lead, Strategy Lead, and a Safety Captain. They communicate and organize meetings. 
 
@@ -35,7 +35,7 @@ A Robotics Club officer is expected to meet the responsibilities associated with
 
 If the officer continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current officer. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current Officer is removed from office and the challenger takes his/her position.
 
-## Article 5 - Meetings
+## Article 5: Meetings
 
 ### General Meetings:
 
@@ -44,25 +44,25 @@ Club meetings will start 15 minutes after school ends. Meetings will be held eve
 ### Leadership Meetings:
 Leadership meetings will be held on Tuesdays (unless otherwise noted) for a maximum of 1 hour. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least two school days in advance and a summary will be posted within one school day. Both of these jobs will be done by the President, Vice President, or otherwise delegated. In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. At the next leads meeting, the absent lead can reopen a discussion or recall a vote from the previous meeting if they wish to do so. 
 
-### Article 6 . Advisor(s)
+### Article 6: Advisor(s)
 
 The Roosevelt Robotics Club.s advisors shall be Mr. K Ruff (Engineering and Technology), Mr. J Miller (Math), and Ms. A Myers (Computer Science).
 
-### Article 7 . Finances
+### Article 7: Finances
 
 The Roosevelt Robotics Club is responsible for its finances, organizing the cost of activities, recruiting sponsors, acquiring donations, and managing the club bank account.
 
-### Article 8 . Amendments
+### Article 8: Amendments
 
 To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
 
-### Article 9 . Ratification
+### Article 9: Ratification
 
 The signatures of a majority of The Leadership and the club advisors shall ratify this constitution.
 
-### Article 10 . Amendments
+### Article 10: Amendments
 
-#### Amendment #1 Bylaws
+#### Amendment #1: Bylaws
 
 This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes. 
 1. A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
@@ -74,15 +74,15 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
    * If the bylaw does not pass, another amendment may be proposed.
 1. A bylaw may be brought up for a revote at any time, but may not be brought up more than twice in any one week.
 
-## Amendment #2 Quorum
+## Amendment #2: Quorum
 
 This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
 
-## Amendment #3 Leads in Emergency Elections
+## Amendment #3: Leads in Emergency Elections
 
 In the case of a midseason vacancy of a position, if a lead runs for the spot, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
 
-## Article 11 - Bylaws
+## Article 11: Bylaws
 
 ### Bylaw #1
 
