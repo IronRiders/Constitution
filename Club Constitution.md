@@ -44,25 +44,25 @@ Club meetings will start 15 minutes after school ends. Meetings will be held eve
 ### Leadership Meetings:
 Leadership meetings will be held on Tuesdays (unless otherwise noted) for a maximum of 1 hour. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least two school days in advance and a summary will be posted within one school day. Both of these jobs will be done by the President, Vice President, or otherwise delegated. In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. At the next leads meeting, the absent lead can reopen a discussion or recall a vote from the previous meeting if they wish to do so. 
 
-### Article 6: Advisor(s)
+## Article 6: Advisor(s)
 
 The Roosevelt Robotics Club.s advisors shall be Mr. K Ruff (Engineering and Technology), Mr. J Miller (Math), and Ms. A Myers (Computer Science).
 
-### Article 7: Finances
+## Article 7: Finances
 
 The Roosevelt Robotics Club is responsible for its finances, organizing the cost of activities, recruiting sponsors, acquiring donations, and managing the club bank account.
 
-### Article 8: Amendments
+## Article 8: Amendments
 
 To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
 
-### Article 9: Ratification
+## Article 9: Ratification
 
 The signatures of a majority of The Leadership and the club advisors shall ratify this constitution.
 
-### Article 10: Amendments
+## Article 10: Amendments
 
-#### Amendment #1: Bylaws
+### Amendment #1: Bylaws
 
 This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes. 
 1. A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
@@ -74,11 +74,11 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
    * If the bylaw does not pass, another amendment may be proposed.
 1. A bylaw may be brought up for a revote at any time, but may not be brought up more than twice in any one week.
 
-## Amendment #2: Quorum
+### Amendment #2: Quorum
 
 This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
 
-## Amendment #3: Leads in Emergency Elections
+### Amendment #3: Leads in Emergency Elections
 
 In the case of a midseason vacancy of a position, if a lead runs for the spot, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
 
@@ -89,7 +89,7 @@ In the case of a midseason vacancy of a position, if a lead runs for the spot, t
 * Each lead must maintain a task list. This should be readily available. The purpose is to instruct whosoever is at any given meeting while the leads are not there in how to proceed with the jobs they need to do, and to document exactly what has been done for future reference. 
 * This document will be posted where any may see it so that it can be used at any time. 
 
-## Bylaw #2
+### Bylaw #2
 
 There will be a folder, accessible to all, in which important documents will be placed pertaining to this club.
 * This file will contain all important documents to each division of the club, including the constitution, design plans, any scripts, and other such documents.
