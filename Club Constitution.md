@@ -111,7 +111,7 @@ This Bylaw establishes the chain of club command, in order of succession for the
 * Hardware lead
 * Software lead
 * Design Lead
-*Safety Captain
+* Safety Captain
 
 ### Bylaw #4
 
