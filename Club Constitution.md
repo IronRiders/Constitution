@@ -1,15 +1,15 @@
-# Roosevelt High School Robotics Club Constitution
+# The Iron Riders Robotics Club Constitution
 Seattle, Washington
 
 ## Article 1: Name
 
-This club will be referred to as The Roosevelt Robotics Club, or The Iron Riders.
+This club will be referred to as the Iron Riders.
 
 ## Article 2: Purpose
 
-This club's purpose is to include students interested in participating in the FIRST Robotics Competition, the FIRST Tech Challenge, in the construction of complex robots, advanced mechanics, competition strategy,  software programming, or any students interested in recruiting corporate sponsors, advertising/marketing, or business management. The goals of The Iron Riders are:
+This club's purpose is to include students interested in participating in the FIRST Robotics Competition, in the construction of complex robots, advanced mechanics, software programming,  business management, competition strategy, or any students interested in recruiting corporate sponsors or advertising/marketing. The goals of The Iron Riders are:
 
-* To compete in the FIRST Robotics Competition and FIRST Tech Challenge.
+* To compete in the FIRST Robotics Competition.
 * To gain members for growth and development of the Roosevelt community as well as FIRST Robotics.
 * To encourage leadership, engineering, programming, and high ethical standards respected in the business, engineering, and programming worlds.
 * To promote understanding and appreciation of science and technology.
@@ -20,53 +20,55 @@ This club's purpose is to include students interested in participating in the FI
 
 ## Article 3: Organization
 
-A student leadership team will govern the Roosevelt Robotics club with the advice and consent of the faculty advisors. The student leadership team is outlined in Articles 4 and 11. Each member of the leadership team must be in good standing as a FIRST member for the current FIRST season.
+A student leadership team will govern the Iron Riders Robotics Club with the advice and consent of the faculty advisors. The student leadership team is outlined in Articles 4 and 11. Each member of the leadership team must be actively participating as a FIRST member for the current FIRST season.
 
-## Article 4: Officers
+## Article 4: Leadership Team
 
-The club will consist of one President, a Vice President, a Project Manager, Hardware Lead, Software Lead, Business Lead, Design Lead, Strategy Lead, and a Safety Captain. They communicate and organize meetings. 
+The club will consist of one Team Captain, a VP/Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
 
-These officers are responsible for organizing meetings and creating agendas for each meeting. Each officer will have meeting responsibilities divvied up in the by-laws. Each officer is expected to be present in a majority of the club's strategy and direction meetings. 
+These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
 
-The current officers announce the election two weeks prior to the election day. Candidates announce their candidacy no later than one week prior to the election by submitting a written statement and speech. Officers are elected by running for the position and receiving a majority of votes from members who are voting, if there is competition for the position. Any uncontested position will be filled by volunteering. Elections will be held after the end of the build season but before the end of the school year. A meeting will be held for the candidates to present their positions, and voting will proceed at the next club meeting. In person attendance is required to vote. A candidate need not be present at the meeting to run, but must have submitted a written position when they declared their candidacy.
+## Article 5: Election Process
 
-Each Robotics Club Member will maintain their position for the entirety of the year. All officers must be actively involved in FIRST Robotics and be in good ethical standing. Each officer has the opportunity to be re-elected for the next FIRST season.
+The current leads announce the election two weeks prior to the election day. Candidates announce their candidacy no later than one week prior to the election by submitting a written statement and speech. Leads are elected by running for the position and receiving a majority of votes from members who are voting, if there is competition for the position. Any uncontested position will be filled by a volunteer. Elections will be held after the end of Competition Season but before the end of the school year. A meeting will be held for the candidates to present their platform, and voting will proceed at the next club meeting. In person attendance is required to vote. A candidate need not be present at the meeting to run, but must have submitted a written platform when they declared their candidacy.
 
-A Robotics Club officer is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within one month of the officer stepping down. If an officer leaves leadership between general elections, they cannot become a lead again until the next general election.
+Each member of the leadership team will maintain their position until the next election. All leads must be actively involved in FIRST Robotics and be in good ethical standing. Each lead has the opportunity to be re-elected for the next FIRST season.
 
-If the officer continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current officer. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current Officer is removed from office and the challenger takes his/her position.
+A member of the leadership team is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within two weeks of the lead stepping down. If a lead leaves leadership between general elections, they cannot become a lead again until the next general election.
 
-## Article 5: Meetings
+If the lead continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current lead. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current lead is removed from office and the challenger takes his/her position.
+
+## Article 6: Meetings
 
 ### General Meetings
 
-Club meetings will start 15 minutes after school ends. Meetings will be held every day for work on the FIRST Robots after the club kickoff in September, with larger strategy and direction meetings on Wednesdays. All meetings will happen in room 217 unless otherwise noted. 
+Club meetings will start 15 minutes after school ends. Meetings will be held every day for curriculum after the club kickoff. When the competition is revealed in January, meetings will be held every day after school to build the competition robot. The leads will organize and run update meetings on Tuesdays. All meetings will happen in room 217 unless otherwise noted.
 
 ### Leadership Meetings
 
-Leadership meetings will be held on Tuesdays (unless otherwise noted) for a maximum of 1 hour. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least two school days in advance and a summary will be posted within one school day. Both of these jobs will be done by the President, Vice President, or otherwise delegated. In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. At the next leads meeting, the absent lead can reopen a discussion or recall a vote from the previous meeting if they wish to do so. 
+Leadership meetings will be held on Mondays from 3:30-4:30, unless otherwise noted. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
 
-## Article 6: Advisor(s)
+## Article 7: Advisor(s)
 
-The Roosevelt Robotics Club's advisors shall be Mr. K Ruff (Engineering and Technology), Mr. J Miller (Math), and Ms. A Myers (Computer Science).
+The Iron Riders Robotics Club advisors shall be Mr. K Ruff (Engineering and Technology) and Ms. A Myers (Computer Science).
 
-## Article 7: Finances
+## Article 8: Finances
 
-The Roosevelt Robotics Club is responsible for its finances, organizing the cost of activities, recruiting sponsors, acquiring donations, and managing the club bank account.
+The Iron Riders Robotics Club is responsible for its finances, organizing the cost of activities, recruiting sponsors, acquiring donations, and managing the club bank account.
 
-## Article 8: Amendments
+## Article 9: Amendments
 
 To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
 
-## Article 9: Ratification
+## Article 10: Ratification
 
-The signatures of a majority of The Leadership and the club advisors shall ratify this constitution.
+The signatures of a majority of the leadership and the club advisors shall ratify this constitution.
 
-## Article 10: Amendments
+## Article 11: Amendments
 
 ### Amendment 1: Bylaws
 
-This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes.
+This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes. 
 
 * A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
 * Anyone may propose a bylaw.
@@ -83,9 +85,9 @@ This Amendment hereby reduces the member requirement of a quorum from the previo
 
 ### Amendment 3: Leads in Emergency Elections
 
-In the case of a midseason vacancy of a position, if a lead runs for the spot, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
+In the case of a midseason vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
 
-## Article 11: Bylaws
+## Article 12: Bylaws
 
 ### Bylaw #1
 
@@ -100,7 +102,7 @@ There will be a folder, accessible to all, in which important documents will be 
 * This file will contain all important documents to each division of the club, including the constitution, design plans, any scripts, and other such documents.
 * This will be kept accessible to all.
 * It will be the responsibility of the leads of each division to make sure a copy of all the important documents pertaining to that division is accessible within the file.
-* It will be the responsibility of the Leads to make sure a copy of all the important documents pertaining to the government of the club is accessible within the file.
+* It will be the responsibility of the leads to make sure a copy of all the important documents pertaining to the government of the club is accessible within the file.
 * The leads of each division will determine which documents are important.
 * A mentor may overrule a lead by placing or removing any document they deem necessary.
 * This will be a hardcopy paper file or an electronic file.
@@ -109,61 +111,145 @@ There will be a folder, accessible to all, in which important documents will be 
 
 This Bylaw establishes the chain of club command, in order of succession for the presidency. Should one member of this list be absent at a meeting, or resign from office, the next member down will take command.
 
-* President
-* Vice President
+* Team Captain
+* Communications Lead
 * Project Manager
 * Business Lead
 * Strategy Lead
-* Hardware lead
-* Software lead
-* Design Lead
-* Safety Captain
+* Build Specialist
+* Software Lead
+* CAD Specialist
 
 ### Bylaw #4
 
 The following leads are responsible for maintaining the following roles.
 
-* President
-  * Emcee Meetings
-  * Outreach
-  * Team building
-  * School Permission Slip 
+* Team Captain
+  * Lead Meetings
+  * Lead Team and People Management
+  * Managing the constitution
+  * Ensure that the club is ASR compliant
+  * Maintain team roster (personal info, status on things, anonymous demographics)
+  * Paperwork, forms etc...
+  * Post agendas for meeting/announce about meetings
+  * Contacting people on an individual level
+  * Communication with other teams → 17-18 leads can decide this
+  * Recruit new members
+  * Ensure diversity and inclusion
+  * Mentor Recruitment
+  * RHS event coordination
+  * Help PM make a timeline for the year and finalize that timeline
+  * Encourage team spirit (make sure we have things like t-shirts, hats, a flag, cheers, a mascot, and other swag and that people are being spirited)
+  * Encourage gracious professionalism and coopertition
+  * Encourage STEM
+  * Appoint executive assistants to aid them and the communications lead (ex: food/transport, outreach, paperwork, social media)
+  * Required to create meeting agendas 24 hours in advance of meeting
+  * In charge of psychological safety (by working with the other team leaders, mentors, and members) 
 * Project Manager
-  * Work Schedule
-  * Coordinate Robot Testing
-* Vice President
-  * Website
-  * Outreach
-  * Presidential Duties (when necessary)
-  * Parental recruitment
-  * Intra-team communication 
-* Business Lead
-  * Track Finances
-  * School Financial coordinator 
+  * PMs main responsibility is managing the construction of the robot during build season by keeping track of the tasks and timelines and preparing for it ahead of time. They communicate directly with the engineering leads (aka the people managers) not with the individual members of their departments. Off season, the PM becomes a “consultant” who is only responsible for managing a project if requested by another lead/people manager.
+  * PM is held responsible for using some type of PM system that is accessible to the entire team digitally all the time and displayed if needed during work meetings. Project manager would be responsible for helping the department leads set up ad hoc groups (not assigning people to them or helping them, but keeping track of the progress of those working groups and helping department leads know what pieces of a project should be broken into ad hoc groups) → PM holds accountable the working groups/ad hoc groups for delivering their projects (ie interdepartmental groups working on pieces of a project). Additionally they would be responsible for advising working groups (working on projects nobody has asked the PM to manage themselves) on how to PM their project.
+  * Manages daily list of tasks for projects assigned to them (displays and allows sign-ups)
+  * Must hold status updates at a minimum 1 per week during a project managed by them
+* Communications Lead
+  * Stand in for/help out Team Captain when needed
+  * Communication with our team 
+  * Send/Post announcements (big announcements and updates)
+  * Outreach (coordinating with other teams and with our team)
+  * Mentor Communication
+  * Roosevelt community communications
+  * Alumni relations
+  * Parental contact
+  * Booster club contact
+  * Food/Transportation
+  * Regular all-team updates (ex: Iron Update)
+  * Communications
+  * Help lead team
+  * Help lead Meetings
+  * Documentation
+  * Update website
+  * Leads Meetings Minutes
+  * Other Meeting Minutes When Necessary
+  * Chairman's Award
+  * Appoints a separate outreach coordinator
+  * In charge of social media
+* Business Manager
+  * Grant writing
+  * Treasurer
   * Fundraising
-  * Donation acquisition 
+  * Getting and maintaining sponsorships
+  * Maintaining fiscal workflows (Purchase approvals and reimbursements)
+  * Training members on workflows
+  * Keep track of cost for part sourcing
+  * Marketing/Advertising (posters, social media presence etc.)
+  * Branding (team swag, graphic design etc.)
+  * Taking photos and video
+  * In charge of keeping track of which sponsors are on the aesthetics board and making sure that it gets done by hardware and design
 * Strategy Lead
-  * Driver
-  * Driving Practice
-  * Field captain
-  * Scouting
-  * Rule expert 
-  * Mock field Construction 
-* Hardware lead
-  * Digital Electronics
-  * Mechanical
-  * Pneumatics
-  * Pit building
-  * Pit Captain
-* Software lead
-  * Robot Control systems
-* Design Lead
-  * CAD team
-  * Design coordination
+  * Competition strategy development hand-in-hand with design (game strategy)
+  * Organize drive team
+  * Know competition rules
+  * Tell the team about the rules
+  * Communicate rule updates to the team
+  * Drive team practice
+Manage scouting
+  * Ensure field construction is built to game manual specifications
+  * Research Strategies
+  * Coordinate with other teams at competitions
+  * Have the strategy lead (whether elected or appointed) be responsible for competitive analysis (managing scouting/drive team)
+  * Have the strategy lead (whether elected or appointed) advise design on game analysis
+  * Require SL to help lead kickoff discussions regarding game analysis and rule book understanding
+  * The strategy lead needs to be responsible for updating the team about the status of strategy and updates to the rule book
+  * Have strategy training on game analysis and competitive analysis and driving practice
+  * SL is responsible for ensuring we have a drive team and head scout
+  * SL should be in charge of reading the rule book and being an expert on it
+* Build Specialist
+  * Manage robot construction based off of the robot design
+  * Make/Teach hardware curriculum
+  * RP lab inventory
+  * Pit inventory
   * Part Sourcing
-* Safety Captain
-  * Safety 
-  * Shop Organization
+  * Keep RP lab clean
+  * Appoint pit boss
+  * Make field elements
+  * Pit building
+  * Electronics/Wiring
+  * Pneumatics
+  * Motors
+  * Mechanical fabrication
+  * Manag robot transport
+  * Make bumpers
+  * Makes Aesthetics board
+  * Combined hardware and design to form Engineering
+  * Rename hardware lead to Build Specialist
+  * Have co-managers (design and hardware specialists) lead the engineering department
+  * Jointly responsible with design specialist for creating a fall curriculum
+  * Have a Quartermaster responsible for managing supplies in RP lab (this would be an appointed position by the build specialist)
+  * Appoint safety lead
+* Software lead
+  * Manage development and testing of software components of robot control systems
+  * Lead the software department by teaching curriculum, working to recruit and retain members, attending leads meetings, Organize 
+  * Help Drivers understand and use robot control software.
+  * As an owner of the Iron Riders github, take responsibility for the upkeep of repositories and teams. 
+  * Ensure software on the development computers and robot components it up to date.
+  * Troubleshoot connection issues with the robot
+  * Keep inventory of software resources such as laptops, joysticks, and sensors
+  * Maintain and contribute to the documentation and history, stored on the website and github.
+  * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
+  * Work with communications lead to maintain functionality of the website, as opposed to content management. 
+  * Design strategy to win the Innovation In Control Systems Award, through doing cool things and talking about them to the judges.
+* CAD Specialist
+  * Develop CAD/Design curriculum
+  * Teach curriculum
+  * Provide hardware with list of specific parts used in the design
+  * Design robot (with bumpers included) working hand-in-hand with strategy
+  * Ensure the other departments have access to the design of the robot
+  * CAD robot
+  * Ensure robot is built to game manual specifications
+  * Designs Aesthetics Board
+  * Combined hardware and design to form Engineering
+  * Rename Design Lead to Design Specialist 
+  * Have co-managers (design and hardware specialists) lead the engineering department
+  * Jointly responsible with hardware specialist for creating a fall curriculum
 
 Signatures
 
