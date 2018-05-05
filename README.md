@@ -1,6 +1,6 @@
 # Constitution
 
-This repository holds the [Iron Riders constitution](./Club%20Constitution.md).
+This repository holds the [Constitution of the Iron Riders Robotics team](./Club%20Constitution.md).
 
 ## Proposing a change using GitHub
 
