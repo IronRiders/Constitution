@@ -185,23 +185,24 @@ The following leads are responsible for maintaining the following roles.
   * Taking photos and video
   * In charge of keeping track of which sponsors are on the aesthetics board and making sure that it gets done by hardware and design
 * Strategy Lead
-  * Competition strategy development hand-in-hand with design (game strategy)
-  * Organize drive team
-  * Know competition rules
-  * Tell the team about the rules
-  * Communicate rule updates to the team
-  * Drive team practice
-Manage scouting
-  * Ensure field construction is built to game manual specifications
-  * Research Strategies
-  * Coordinate with other teams at competitions
-  * Have the strategy lead (whether elected or appointed) be responsible for competitive analysis (managing scouting/drive team)
-  * Have the strategy lead (whether elected or appointed) advise design on game analysis
-  * Require SL to help lead kickoff discussions regarding game analysis and rule book understanding
-  * The strategy lead needs to be responsible for updating the team about the status of strategy and updates to the rule book
-  * Have strategy training on game analysis and competitive analysis and driving practice
-  * SL is responsible for ensuring we have a drive team and head scout
-  * SL should be in charge of reading the rule book and being an expert on it
+  *Must research and/or be knowledgeable in the areas of Strategic Design, Scouting, Match Strategies, and Robot Control & Operation, or similar
+ * Lead the Strategy Department by teaching the curriculum, working to recruit and retain members, and attending leads meetings,
+  * Organise and lead the team in through the Game Analysis phase of Strategic Design on Kickoff
+  * Must lead the team through the Cost-Benefit Analysis phase of Strategic Design
+  *Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Specialist.
+  *Responsible for editing and presenting the Design Platform to the Design Specialist for review, which will be frozen upon the signature of both leads.
+  *The Strategy Lead or a delegate form the Strategy Department will advise the Design Specialist and Department during the Functional Design Process and transition to Mechanical Design
+  *Strategy Lead must become an expert on the rules and ensure that the team is on the same page with the rules starting on kickoff and throughout the season.
+  *Must determine the order of priority for the construction of the Field Elements and ensure Field/ Field Element construction is built to Feild Drawing specifications
+  *Strategy Lead must manage Q&A in regards to the rules
+  *Must give Weekly updates on the rules
+  *Strategy Lead must facilitate the creation and training of Drive Team working to recruit and retain members, and hold practices, and select the final Competition Drive Team.
+  *Must appoint or act as and train a Drive Coach, Head Strategist, and Match Strategist (or equivalent positions determined by the Veteran Strategy Department Members). However, the  Strategy Lead may not act as either of the latter two in addition to the former most.
+  *Strategy Lead and/or Department will meet with the Software Lead and members of the Software department to determine Auto Strategy for the season.
+  *Responsible for ensuring pre-scouting reports are created and shared as per the scouting guidelines determined by the Veteran Strategy Department Members
+  *Must appoint a Head Pit Scout and Head Match Scout
+*Strategy Lead is responsible for the Strategy sub leads executing appropriate strategic procedures at competitions, including but limited to, scouting, match strategizing, briefing drive team, coordinating with alliance members, post-match analysis, etc.
+  *Strategy Lead manages and/or advises the creation of the Reveal Video or any other public reveal and decides what information to and not to reveal interest of long term strategies.
 * Build Specialist
   * Manage robot construction based off of the robot design
   * Make/Teach hardware curriculum
@@ -227,6 +228,7 @@ Manage scouting
   * Appoint safety lead
 * Software lead
   * Manage development and testing of software components of robot control systems
+  * Work with SOftware Members, Strategy Lead, and Strategy members to develop an auto Strategy for the season.
   * Lead the software department by teaching curriculum, working to recruit and retain members, attending leads meetings, Organize 
   * Help Drivers understand and use robot control software.
   * As an owner of the Iron Riders github, take responsibility for the upkeep of repositories and teams. 
@@ -236,10 +238,12 @@ Manage scouting
   * Maintain and contribute to the documentation and history, stored on the website and github.
   * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
   * Work with communications lead to maintain functionality of the website, as opposed to content management. 
-  * Design strategy to win the Innovation In Control Systems Award, through doing cool things and talking about them to the judges.
+  * Work with Strategy to win the Innovation In Control Systems Award, through doing cool things and talking about them to the judges.
 * CAD Specialist
   * Develop CAD/Design curriculum
   * Teach curriculum
+  * Work with Strategy Department to draft the Design Platform
+  * Review Design Platform presented by Strategy Lead, propose changes in needed, and freeze by signing.
   * Provide hardware with list of specific parts used in the design
   * Design robot (with bumpers included) working hand-in-hand with strategy
   * Ensure the other departments have access to the design of the robot
