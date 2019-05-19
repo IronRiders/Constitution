@@ -58,7 +58,7 @@ The Iron Riders Robotics Club is responsible for its finances, organizing the co
 
 ## Article 9: Amendments
 
-To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
+To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club.
 
 ## Article 10: Ratification
 
