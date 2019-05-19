@@ -185,24 +185,24 @@ The following leads are responsible for maintaining the following roles.
   * Taking photos and video
   * In charge of keeping track of which sponsors are on the aesthetics board and making sure that it gets done by hardware and design
 * Strategy Lead
-  *Must research and/or be knowledgeable in the areas of Strategic Design, Scouting, Match Strategies, and Robot Control & Operation, or similar
+  * Must research and/or be knowledgeable in the areas of Strategic Design, Scouting, Match Strategies, and Robot Control & Operation, or similar
  * Lead the Strategy Department by teaching the curriculum, working to recruit and retain members, and attending leads meetings,
   * Organise and lead the team in through the Game Analysis phase of Strategic Design on Kickoff
   * Must lead the team through the Cost-Benefit Analysis phase of Strategic Design
-  *Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Specialist.
-  *Responsible for editing and presenting the Design Platform to the Design Specialist for review, which will be frozen upon the signature of both leads.
-  *The Strategy Lead or a delegate form the Strategy Department will advise the Design Specialist and Department during the Functional Design Process and transition to Mechanical Design
-  *Strategy Lead must become an expert on the rules and ensure that the team is on the same page with the rules starting on kickoff and throughout the season.
-  *Must determine the order of priority for the construction of the Field Elements and ensure Field/ Field Element construction is built to Feild Drawing specifications
-  *Strategy Lead must manage Q&A in regards to the rules
-  *Must give Weekly updates on the rules
-  *Strategy Lead must facilitate the creation and training of Drive Team working to recruit and retain members, and hold practices, and select the final Competition Drive Team.
-  *Must appoint or act as and train a Drive Coach, Head Strategist, and Match Strategist (or equivalent positions determined by the Veteran Strategy Department Members). However, the  Strategy Lead may not act as either of the latter two in addition to the former most.
-  *Strategy Lead and/or Department will meet with the Software Lead and members of the Software department to determine Auto Strategy for the season.
-  *Responsible for ensuring pre-scouting reports are created and shared as per the scouting guidelines determined by the Veteran Strategy Department Members
-  *Must appoint a Head Pit Scout and Head Match Scout
-*Strategy Lead is responsible for the Strategy sub leads executing appropriate strategic procedures at competitions, including but limited to, scouting, match strategizing, briefing drive team, coordinating with alliance members, post-match analysis, etc.
-  *Strategy Lead manages and/or advises the creation of the Reveal Video or any other public reveal and decides what information to and not to reveal interest of long term strategies.
+  * Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Specialist.
+  * Responsible for editing and presenting the Design Platform to the Design Specialist for review, which will be frozen upon the signature of both leads.
+  * The Strategy Lead or a delegate form the Strategy Department will advise the Design Specialist and Department during the Functional Design Process and transition to Mechanical Design
+  * Strategy Lead must become an expert on the rules and ensure that the team is on the same page with the rules starting on kickoff and throughout the season.
+  * Must determine the order of priority for the construction of the Field Elements and ensure Field/ Field Element construction is built to Feild Drawing specifications
+  * Strategy Lead must manage Q&A in regards to the rules
+  * Must give Weekly updates on the rules
+  * Strategy Lead must facilitate the creation and training of Drive Team working to recruit and retain members, and hold practices, and select the final Competition Drive Team.
+  * Must appoint or act as and train a Drive Coach, Head Strategist, and Match Strategist (or equivalent positions determined by the Veteran Strategy Department Members). However, the  Strategy Lead may not act as either of the latter two in addition to the former most.
+  * Strategy Lead and/or Department will meet with the Software Lead and members of the Software department to determine Auto Strategy for the season.
+  * Responsible for ensuring pre-scouting reports are created and shared as per the scouting guidelines determined by the Veteran Strategy Department Members
+  * Must appoint a Head Pit Scout and Head Match Scout
+* Strategy Lead is responsible for the Strategy sub leads executing appropriate strategic procedures at competitions, including but limited to, scouting, match strategizing, briefing drive team, coordinating with alliance members, post-match analysis, etc.
+  * Strategy Lead manages and/or advises the creation of the Reveal Video or any other public reveal and decides what information to and not to reveal interest of long term strategies.
 * Build Specialist
   * Manage robot construction based off of the robot design
   * Make/Teach hardware curriculum
