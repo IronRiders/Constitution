@@ -254,6 +254,77 @@ The following leads are responsible for maintaining the following roles.
   * Rename Design Lead to Design Specialist 
   * Have co-managers (design and hardware specialists) lead the engineering department
   * Jointly responsible with hardware specialist for creating a fall curriculum
+  
+   ### Bylaw #5
+
+ ## Section 1
+ With the passage of this bylaw FIRST WA Team FRC 4180, The Iron Riders, formally:
+
+ * Recognise and acknowledge that we meet and operate on the traditional land of the first people of Seattle, the Duwamish People past and present, and honor with gratitude the land itself and the Duwamish Tribe.
+
+ - Recognises and acknowledge Systemic Racism/Sexism/Discrimination is real and exists.
+   - In the context of this bylaw, Discrimination (capital D) will be used as an umbrella term that includes but is not limited to discrimination based on gender indentity, disability, department, speech/accent, etc.
+
+ * Recognises and acknowledge Systemic Racism/Sexism/Discrimination on basis of identity/Discrimination on Basis of Disability extends to and effects Roosevelt High School as an institution, it’s community, the neighborhoods it’s students and staff come from, Seattle, and the USA as a whole.
+
+ * Recognises and acknowledges that as a consequence of the above Systemic Racism/Sexism/Bias extends to Education (including but not limited to Science Technology Engineering and Mathematics (STEM) Education), STEM Programs including but limited to FIRST, and to this team FIRST WA Team Iron Riders, FRC 4180.
+
+ * Recognise and acknowledge that Systemic Racism/Sexism/Discrimination can take place through both macro and micro aggressions, through both visible and invisible inequities and are very damaging.
+
+ * Recognises and acknowledges that multiple alumni and members experienced Racism,Sexism, and/or Discrimination while on Iron Riders.
+
+ * Recognises, even publicly, that the Iron Riders need to do everything within their power to address and eliminate Racism, Sexism, and Discriminition within the team and community and replace it with Equity, Diversity, and Inclusion.
+
+ ## Section 2
+ This bylaw will require the team and it’s leadership to comply with the following:
+
+ - Require Student Leaders and the Team’s Mentors/Coaches to through and discuss Equity Diversity and Inclusion Training modules. This must be completed before build season starts at the latest. (It should be noted and recommended that doing this before starting the school year will have the most beneficial effect.)
+    - Specifically Require the following modules or equivalent training determined by Mentors/Coaches
+      - Strategies for Inspiring Success Modules 1-3
+        - Module 1: Invisible Equities
+        - Module 2: Hidden Messages
+        - Module 3: Inspiring Success
+   [Link to modules](https://info.firstinspires.org/inspiring-success?utm_source=first-inspires&utm_medium=cta&utm_campaign=edi-training-019&utm_content=edi-rl&hsCtaTracking=9cd2572a-9f1f-4b33-b29f-38dcd801b01f%7C7e38341d-ffee-44c4-9bdc-8f129524da24)
+     - Specifically recommend, but do not require, the following modules
+       - Inspiring Youth Voices Modules 1 - 3
+     - Generally encourages leads and mentors/coaches to explore the following resources from FIRST or take the following actions
+     - Exploring FIRST Resources on Gender Equity, Disability Inclusion, and more [here](https://www.firstinspires.org/resource-library/training-equity-diversity-inclusion)
+       - Maintaining Gold Tier Partnership with LGBTQ+ of FIRST
+       - Becoming a #FIRSTLikeAGirl Ambassador
+       - Do something along the lines of FRC 1710’s You Go Girl Initiative, link [here](http://www.team1710.com/cool_timeline/you-go-girl-founded/)
+
+ - Work towards lowering  minimum required crowdfunding to $50 at most, with recommendation to only use mandatory crowdfunding as a last resort source of funding. Further recommends the team to seek sponsorships and grants over crowdfunding.
+   - This action is intended to remove or lower cost barriers.
+   - It should be noted at least 5 people, of whom were Black, Indigenous, and/or People of Color (BIPoCs) decided not to join Robotics citing the $100 minimum crowdfunding as primary reason. There were probably many more.
+   - Cost cannot be justified as a barrier for participating in FRC.
+   - It should be noted and acknowledged that minimum required costs are a barrier specifically against low income families, and especially low income BIPOC families. Even with aid, many students from such backgrounds will be unwilling to admit to another student or even a teacher that they need aid. It has been well documented by FIRST that this is a barrier for participation in FRC, and is reinforced yet experienced by RHS students who did not join because of the minus crowdfunding. Limiting the maximum amount of crowdfunding required will allow leads to have a cap which they may not go above when choosing crowdfunding amounts. This will help to limit the effects of crowdfunding on the BIPoC community, as well as others outside that community.
+   - It should also be noted, at the time of passing this bylaw, crowdfunding is an important source of income for the team, eliminating it immediately would be very detrimental to the team, so the team should work to lower it as circumstances permit.
+   - This is not banning crowdfunding, it is recommending against it and limiting how much members can be required to pay.
+   - The topic of what the minimum required crowdfunding is recommended to be set as agenda item at the first impersonal leads meeting.
+
+ - Requires Student Leaders to discuss and implement specific recruitment strategies to target recruitment of underrepresented groups in STEM, including BIPoCs and Non Male students. 
+
+ - Requires Student Leaders to discuss and implement specific retainment strategies to ensure that team retains underrepresented groups in STEM, including BIPoCs and Non Male students. 
+
+ - Requires Student Leadership to record demographic information on team members when the sign up.
+
+ - Requires department leads to keep attendance data, collecting attendance at least every month.
+
+ - Requires Student Leadership to track students who drop out during the school year, and once a month have an agenda item to discuss reasons for drop out and/or reasons why members have been retained.
+
+ - Requires Iron Riders Leadership to maintain the Black Lives Matter (BLM) statement on the front page of the website in some form until the leadership decides racism is no longer a prevalent issue for the Iron Riders community.
+   - This can be a full page post, or as simple as a banner that says “Black Lives Matter, read more” and links to a different page.
+   - The recommendation stands that the full page post stays up for the duration of the BLM protests in our community.
+
+ - Requires that feminine hygiene products be made accessible in the pit during meetings and at competitions.
+
+ - Requires the Iron Riders to be able to accommodate all students equitably to the best of their abilities.
+
+ ## Section 3
+This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum was set at 7, 8 votes were cast.
+
+Passed 7 yes, 0 no, 1 abstain but endorsed.
+
 
 Signatures
 
