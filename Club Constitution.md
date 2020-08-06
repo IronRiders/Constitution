@@ -291,20 +291,11 @@ The following leads are responsible for maintaining the following roles.
      - Exploring FIRST Resources on Gender Equity, Disability Inclusion, and more [here](https://www.firstinspires.org/resource-library/training-equity-diversity-inclusion)
        - Maintaining Gold Tier Partnership with LGBTQ+ of FIRST
        - Becoming a #FIRSTLikeAGirl Ambassador
-       - Do something along the lines of FRC 1710’s You Go Girl Initiative, link [here](http://www.team1710.com/cool_timeline/you-go-girl-founded/)
+       - Consider a recruitment strategy that targets underrepresented groups in STEM, for example a recruitment strategy that targets girls by reaching out to them at the middle school level, similar to [FRC 1710’s You Go Girl Initiative](http://www.team1710.com/cool_timeline/you-go-girl-founded/)
 
- - Work towards lowering  minimum required crowdfunding to $50 at most, with recommendation to only use mandatory crowdfunding as a last resort source of funding. Further recommends the team to seek sponsorships and grants over crowdfunding.
-   - This action is intended to remove or lower cost barriers.
-   - It should be noted at least 5 people, of whom were Black, Indigenous, and/or People of Color (BIPoCs) decided not to join Robotics citing the $100 minimum crowdfunding as primary reason. There were probably many more.
-   - Cost cannot be justified as a barrier for participating in FRC.
-   - It should be noted and acknowledged that minimum required costs are a barrier specifically against low income families, and especially low income BIPOC families. Even with aid, many students from such backgrounds will be unwilling to admit to another student or even a teacher that they need aid. It has been well documented by FIRST that this is a barrier for participation in FRC, and is reinforced yet experienced by RHS students who did not join because of the minus crowdfunding. Limiting the maximum amount of crowdfunding required will allow leads to have a cap which they may not go above when choosing crowdfunding amounts. This will help to limit the effects of crowdfunding on the BIPoC community, as well as others outside that community.
-   - It should also be noted, at the time of passing this bylaw, crowdfunding is an important source of income for the team, eliminating it immediately would be very detrimental to the team, so the team should work to lower it as circumstances permit.
-   - This is not banning crowdfunding, it is recommending against it and limiting how much members can be required to pay.
-   - The topic of what the minimum required crowdfunding is recommended to be set as agenda item at the first impersonal leads meeting.
+ - Members cannot be prevented from participation on this team solely because of a failure to meet a fundraising goal.
 
- - Requires Student Leaders to discuss and implement specific recruitment strategies to target recruitment of underrepresented groups in STEM, including BIPoCs and Non Male students. 
-
- - Requires Student Leaders to discuss and implement specific retainment strategies to ensure that team retains underrepresented groups in STEM, including BIPoCs and Non Male students. 
+ - Requires Leadership Team to discuss and implement specific recruitment and retainment strategies to ensure that the team recruits and retains underrepresented groups in STEM, including BIPoCs and Non-Male students. 
 
  - Requires Student Leadership to record demographic information on team members when the sign up.
 
@@ -312,18 +303,15 @@ The following leads are responsible for maintaining the following roles.
 
  - Requires Student Leadership to track students who drop out during the school year, and once a month have an agenda item to discuss reasons for drop out and/or reasons why members have been retained.
 
- - Requires Iron Riders Leadership to maintain the Black Lives Matter (BLM) statement on the front page of the website in some form until the leadership decides racism is no longer a prevalent issue for the Iron Riders community.
-   - This can be a full page post, or as simple as a banner that says “Black Lives Matter, read more” and links to a different page.
-   - The recommendation stands that the full page post stays up for the duration of the BLM protests in our community.
+ - Requires Iron Riders Leadership to maintain a Black Lives Matter (BLM) statement on the Iron Riders website.
+
 
  - Requires that feminine hygiene products be made accessible in the pit during meetings and at competitions.
 
  - Requires the Iron Riders to be able to accommodate all students equitably to the best of their abilities.
 
  ## Section 3
-This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum was set at 7, 8 votes were cast.
-
-Passed 7 yes, 0 no, 1 abstain but endorsed.
+This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum for second was set at 7, 7 votes were cast, bylaw passed 7 yes, 0 no, 0 abstain.
 
 
 Signatures
