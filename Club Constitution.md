@@ -255,27 +255,27 @@ The following leads are responsible for maintaining the following roles.
   * Have co-managers (design and hardware specialists) lead the engineering department
   * Jointly responsible with hardware specialist for creating a fall curriculum
   
-   ### Bylaw #5
+   ###Bylaw #5
 
- ## Section 1
+ ##Section 1
  With the passage of this bylaw FIRST WA Team FRC 4180, The Iron Riders, formally:
 
  * Recognise and acknowledge that we meet and operate on the traditional land of the first people of Seattle, the Duwamish People past and present, and honor with gratitude the land itself and the Duwamish Tribe.
 
- - Recognises and acknowledge Systemic Racism/Sexism/Discrimination is real and exists.
-   - In the context of this bylaw, Discrimination (capital D) will be used as an umbrella term that includes but is not limited to discrimination based on gender indentity, disability, department, speech/accent, etc.
+ * Recognise and acknowledge Systemic Racism/Sexism/Discrimination is real and exists.
+   * In the context of this bylaw, Discrimination (capital D) will be used as an umbrella term that includes but is not limited to discrimination based on gender indentity, disability, department, speech/accent, etc.
 
- * Recognises and acknowledge Systemic Racism/Sexism/Discrimination on basis of identity/Discrimination on Basis of Disability extends to and effects Roosevelt High School as an institution, it’s community, the neighborhoods it’s students and staff come from, Seattle, and the USA as a whole.
+ * Recognise and acknowledge Systemic Racism/Sexism/Discrimination on basis of identity/Discrimination on Basis of Disability extends to and effects Roosevelt High School as an institution, it’s community, the neighborhoods it’s students and staff come from, Seattle, and the USA as a whole.
 
- * Recognises and acknowledges that as a consequence of the above Systemic Racism/Sexism/Bias extends to Education (including but not limited to Science Technology Engineering and Mathematics (STEM) Education), STEM Programs including but limited to FIRST, and to this team FIRST WA Team Iron Riders, FRC 4180.
+ * Recognise and acknowledges that as a consequence of the above Systemic Racism/Sexism/Bias extends to Education (including but not limited to Science Technology Engineering and Mathematics (STEM) Education), STEM Programs including but limited to FIRST, and to this team FIRST WA Team Iron Riders, FRC 4180.
 
  * Recognise and acknowledge that Systemic Racism/Sexism/Discrimination can take place through both macro and micro aggressions, through both visible and invisible inequities and are very damaging.
 
- * Recognises and acknowledges that multiple alumni and members experienced Racism,Sexism, and/or Discrimination while on Iron Riders.
+ * Recognise and acknowledges that multiple alumni and members experienced Racism,Sexism, and/or Discrimination while on Iron Riders.
 
- * Recognises, even publicly, that the Iron Riders need to do everything within their power to address and eliminate Racism, Sexism, and Discriminition within the team and community and replace it with Equity, Diversity, and Inclusion.
+ * Recognise, even publicly, that the Iron Riders need to do everything within their power to address and eliminate Racism, Sexism, and Discriminition within the team and community and replace it with Equity, Diversity, and Inclusion.
 
- ## Section 2
+ ##Section 2
  This bylaw will require the team and it’s leadership to comply with the following:
 
  - Require Student Leaders and the Team’s Mentors/Coaches to through and discuss Equity Diversity and Inclusion Training modules. This must be completed before build season starts at the latest. (It should be noted and recommended that doing this before starting the school year will have the most beneficial effect.)
