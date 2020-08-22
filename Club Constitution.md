@@ -305,14 +305,12 @@ The following leads are responsible for maintaining the following roles.
 
  - Requires Iron Riders Leadership to maintain a Black Lives Matter (BLM) statement on the Iron Riders website.
 
-
  - Requires that feminine hygiene products be made accessible in the pit during meetings and at competitions.
 
  - Requires the Iron Riders to be able to accommodate all students equitably to the best of their abilities.
 
- ## Section 3
+ ##Section 3
 This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum for second was set at 7, 7 votes were cast, bylaw passed 7 yes, 0 no, 0 abstain.
-
 
 Signatures
 
