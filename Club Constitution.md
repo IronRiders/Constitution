@@ -79,9 +79,9 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
   * If the bylaw does not pass, another amendment may be proposed.
 * A bylaw may be brought up for a revote at any time, but may not be brought up more than twice in any one week.
 
-~~### Amendment 2: Quorum
+~~### Amendment 2: Quorum~~
 
-~~This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
+~~This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.~~
 
 ### Amendment 3: Leads in Emergency Elections
 
