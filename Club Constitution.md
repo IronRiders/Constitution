@@ -62,7 +62,7 @@ The Iron Riders Robotics Club is responsible for its finances, organizing the co
 
 ## Article 9: Amendments
 
-To make any amendments to this constitution, a written proposal must be presented to the current President and Advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the President and Leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
+To make any amendments to this constitution, a written proposal must be presented to the current captain and advisor of the Roosevelt Robotics Club. Amendments can be presented by any club member. A decision will be made by the leadership as to whether to present the amendment to the entire club. A simple leadership majority ratifies the amendment.
 
 ## Article 10: Ratification
 
@@ -113,7 +113,7 @@ There will be a folder, accessible to all, in which important documents will be 
 
 ### Bylaw #3
 
-This Bylaw establishes the chain of club command, in order of succession for the presidency. Should one member of this list be absent at a meeting, or resign from office, the next member down will take command.
+This Bylaw establishes the chain of club command. In the event that a captain is needed, this is the order.
 
 * Team Captain
 * Communications Lead
