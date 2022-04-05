@@ -50,7 +50,7 @@ Leadership meetings will be held once a week at the discretion of the leads. Any
 
 ## Article 7: Advisor(s)
 
-The Iron Riders Robotics Club advisors shall be Mr. K Ruff (Engineering and Technology) and Ms. A Myers (Computer Science).
+The Iron Riders Robotics Club advisors shall be Mr. K Ruff (Engineering and Technology).
 
 ## Article 8: Finances
 
