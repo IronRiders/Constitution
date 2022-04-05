@@ -36,17 +36,17 @@ Each member of the leadership team will maintain their position until the next e
 
 A member of the leadership team is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within two weeks of the lead stepping down. If a lead leaves leadership between general elections, they cannot become a lead again until the next general election.
 
-If the lead continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current lead. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current lead is removed from office and the challenger takes his/her position.
+If the lead continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current lead. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current lead is removed from office and the challenger takes his/her position.
 
 ## Article 6: Meetings
 
 ### General Meetings
 
-Club meetings will start 15 minutes after school ends. Meetings will be held every day for curriculum after the club kickoff. When the competition is revealed in January, meetings will be held every day after school to build the competition robot. The leads will organize and run update meetings on Tuesdays. All meetings will happen in room 217 unless otherwise noted.
+Club meetings will start after school at the discretion of the leads. All meetings will happen in room 217 unless otherwise noted.
 
 ### Leadership Meetings
 
-Leadership meetings will be held on Mondays from 3:30-4:30, unless otherwise noted. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
+Leadership meetings will be held once a week at the discretion of the leads. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
 
 ## Article 7: Advisor(s)
 
