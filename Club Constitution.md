@@ -34,9 +34,13 @@ The current leads announce the election two weeks prior to the election day. Can
 
 Each member of the leadership team will maintain their position until the next election. All leads must be actively involved in FIRST Robotics and be in good ethical standing. Each lead has the opportunity to be re-elected for the next FIRST season.
 
-A member of the leadership team is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down. An emergency election is held and a new candidate is elected within two weeks of the lead stepping down. If a lead leaves leadership between general elections, they cannot become a lead again until the next general election.
+A member of the leadership team is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down after talking with a mentor. They must appoint an interim lead which must be approved by a simple majority of the other leads until the position is filled.
 
-If the lead continues to not meet the expectations associated with their position and chooses not to step down, a challenge to the position may occur. In a challenge, a Robotics club member runs in a challenge election against the current lead. If a simple majority (over 50%) of club leadership vote for the challenging candidate, the current lead is removed from office and the challenger takes his/her position.
+If the lead continues to not meet the expectations associated with their position and chooses not to step down, they may be impeached by five out of the other seven. If impeached, that person is no longer a lead, and cannot become a lead again until the next general election. It is up to the remaining leads whether or not to appoint an interim lead during the offseason, however, during competition season, they must choose an interim lead.
+
+If a lead disappears, it is up to the mentors and other leads to decide which of the above two paths to take.
+
+If there is a vacancy before competition season, a special election is held that follows the same rules as that year's general election, but only for the vacant position. If there is a vacancy during or after competition season, the interim lead serves until the next general election.
 
 ## Article 6: Meetings
 
@@ -83,9 +87,9 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
 
 ~~This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
 
-### Amendment 3: Leads in Emergency Elections
+~~### Amendment 3: Leads in Emergency Elections~~
 
-In the case of a midseason vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. 
+~~In the case of a midseason vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. ~~
 
 ## Article 12: Bylaws
 
