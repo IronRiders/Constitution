@@ -46,7 +46,7 @@ Club meetings will start after school at the discretion of the leads. All meetin
 
 ### Leadership Meetings
 
-Leadership meetings will be held once a week at the discretion of the leads. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
+Leadership meetings will be held once a week at the discretion of the leads. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance. In order for a meeting to be valid, there must be at least seven leads or representatives present to establish quorum.
 
 ## Article 7: Advisor(s)
 
@@ -79,9 +79,9 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
   * If the bylaw does not pass, another amendment may be proposed.
 * A bylaw may be brought up for a revote at any time, but may not be brought up more than twice in any one week.
 
-### Amendment 2: Quorum
+~~### Amendment 2: Quorum
 
-This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
+~~This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.
 
 ### Amendment 3: Leads in Emergency Elections
 
