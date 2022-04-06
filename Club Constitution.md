@@ -259,9 +259,9 @@ The following leads are responsible for maintaining the following roles.
   * Have co-managers (design and hardware specialists) lead the engineering department
   * Jointly responsible with hardware specialist for creating a fall curriculum
   
-   ###Bylaw #5
+### Bylaw #5
 
- ##Section 1
+#### Section 1
  With the passage of this bylaw FIRST WA Team FRC 4180, The Iron Riders, formally:
 
  * Recognise and acknowledge that we meet and operate on the traditional land of the first people of Seattle, the Duwamish People past and present, and honor with gratitude the land itself and the Duwamish Tribe.
@@ -279,7 +279,7 @@ The following leads are responsible for maintaining the following roles.
 
  * Recognise, even publicly, that the Iron Riders need to do everything within their power to address and eliminate Racism, Sexism, and Discriminition within the team and community and replace it with Equity, Diversity, and Inclusion.
 
- ##Section 2
+#### Section 2
  This bylaw will require the team and it’s leadership to comply with the following:
 
  - Require Student Leaders and the Team’s Mentors/Coaches to through and discuss Equity Diversity and Inclusion Training modules. This must be completed before build season starts at the latest. (It should be noted and recommended that doing this before starting the school year will have the most beneficial effect.)
@@ -313,7 +313,7 @@ The following leads are responsible for maintaining the following roles.
 
  - Requires the Iron Riders to be able to accommodate all students equitably to the best of their abilities.
 
- ##Section 3
+#### Section 3
 This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum for second was set at 7, 7 votes were cast, bylaw passed 7 yes, 0 no, 0 abstain.
 
 Signatures
