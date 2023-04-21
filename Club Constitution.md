@@ -24,7 +24,6 @@ A student leadership team will govern the Iron Riders Robotics Club with the adv
 
 ## Article 4: Leadership Team
 
-The club will consist of one Team Captain, a VP/Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
 
 These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
 
@@ -120,9 +119,9 @@ This Bylaw establishes the chain of club command. In the event that a captain is
 * Project Manager
 * Business Lead
 * Strategy Lead
-* Build Specialist
+* Build Lead
 * Software Lead
-* CAD Specialist
+* CAD Lead
 
 ### Bylaw #4
 
