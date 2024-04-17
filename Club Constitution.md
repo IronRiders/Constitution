@@ -24,7 +24,7 @@ A student leadership team will govern the Iron Riders Robotics Club with the adv
 
 ## Article 4: Leadership Team
 
-The club will consist of one Team Captain, a Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
+The club will consist of one Team Captain, a Communications Lead, a Project Manager, Build Lead, Software Lead, CAD Lead, Business Manager, and a Strategy Lead. They communicate and organize meetings.
 
 These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
 
@@ -120,9 +120,9 @@ This Bylaw establishes the chain of club command. In the event that a captain is
 * Project Manager
 * Business Lead
 * Strategy Lead
-* Build Specialist
+* Build Lead
 * Software Lead
-* CAD Specialist
+* CAD Lead
 
 ### Bylaw #4
 
@@ -193,9 +193,9 @@ The following leads are responsible for maintaining the following roles.
   * Lead the Strategy Department by teaching the curriculum, working to recruit and retain members, and attending leads meetings,
   * Organise and lead the team in through the Game Analysis phase of Strategic Design on Kickoff
   * Must lead the team through the Cost-Benefit Analysis phase of Strategic Design
-  * Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Specialist.
-  * Responsible for editing and presenting the Design Platform to the Design Specialist for review, which will be frozen upon the signature of both leads.
-  * The Strategy Lead or a delegate form the Strategy Department will advise the Design Specialist and Department during the Functional Design Process and transition to Mechanical Design
+  * Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Leads.
+  * Responsible for editing and presenting the Design Platform to the Design Leads for review, which will be frozen upon the signature of both leads.
+  * The Strategy Lead or a delegate form the Strategy Department will advise the Design Leads and Department during the Functional Design Process and transition to Mechanical Design
   * Strategy Lead must become an expert on the rules and ensure that the team is on the same page with the rules starting on kickoff and throughout the season.
   * Must determine the order of priority for the construction of the Field Elements and ensure Field/ Field Element construction is built to Feild Drawing specifications
   * Strategy Lead must manage Q&A in regards to the rules
@@ -207,7 +207,7 @@ The following leads are responsible for maintaining the following roles.
   * Must appoint a Head Pit Scout and Head Match Scout
   * Strategy Lead is responsible for the Strategy sub leads executing appropriate strategic procedures at competitions, including but limited to, scouting, match strategizing, briefing drive team, coordinating with alliance members, post-match analysis, etc.
   * Strategy Lead manages and/or advises the creation of the Reveal Video or any other public reveal and decides what information to and not to reveal interest of long term strategies.
-* Build Specialist
+* Build Lead
   * Manage robot construction based off of the robot design
   * Make/Teach hardware curriculum
   * RP lab inventory
@@ -225,8 +225,8 @@ The following leads are responsible for maintaining the following roles.
   * Make bumpers
   * Makes Aesthetics board
   * Combined hardware and design to form Engineering
-  * Rename hardware lead to Build Specialist
-  * Have co-managers (design and hardware specialists) lead the engineering department
+  * Rename hardware lead to Build Lead
+  * Have co-managers (design and hardware leads) lead the engineering department
   * Jointly responsible with design specialist for creating a fall curriculum
   * Have a Quartermaster responsible for managing supplies in RP lab (this would be an appointed position by the build specialist)
   * Appoint safety lead
