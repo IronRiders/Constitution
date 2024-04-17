@@ -317,6 +317,6 @@ The following leads are responsible for maintaining the following roles.
 #### Section 3
 This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum for second was set at 7, 7 votes were cast, bylaw passed 7 yes, 0 no, 0 abstain.
 
-Signatures
+### Bylaw #6
 
-Date Passed:
+A member can nominate another member for an appointed position and the lead/leads that appoint that position will take that nomination into consideration.
