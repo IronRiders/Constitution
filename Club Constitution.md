@@ -147,6 +147,7 @@ The following leads are responsible for maintaining the following roles.
   * Encourage gracious professionalism and coopertition
   * Encourage STEM
   * Appoint executive assistants to aid them and the communications lead (ex: food/transport, outreach, paperwork, social media)
+  * Jointly appoints a separate outreach coordinator with the Communications Lead
   * Required to create meeting agendas 24 hours in advance of meeting
   * In charge of psychological safety (by working with the other team leaders, mentors, and members) 
 * Project Manager
@@ -174,7 +175,7 @@ The following leads are responsible for maintaining the following roles.
   * Leads Meetings Minutes
   * Other Meeting Minutes When Necessary
   * Chairman's Award
-  * Appoints a separate outreach coordinator
+  * Jointly appoints a separate outreach coordinator with the Team Captain
   * In charge of social media
 * Business Manager
   * Grant writing
