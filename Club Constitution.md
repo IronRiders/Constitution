@@ -24,7 +24,7 @@ A student leadership team will govern the Iron Riders Robotics Club with the adv
 
 ## Article 4: Leadership Team
 
-The club will consist of one Team Captain, a VP/Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
+The club will consist of one Team Captain, a Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
 
 These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
 
@@ -50,7 +50,7 @@ Club meetings will start after school at the discretion of the leads. All meetin
 
 ### Leadership Meetings
 
-Leadership meetings will be held once a week at the discretion of the leads. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance. In order for a meeting to be valid, there must be at least seven leads or representatives present to establish quorum.
+Leadership meetings will be held once a week at the discretion of the leads. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance. In order for a meeting to be valid, there must be at least seven leads or representatives present to establish quorum.
 
 ## Article 7: Advisor(s)
 
@@ -232,7 +232,7 @@ The following leads are responsible for maintaining the following roles.
   * Appoint safety lead
 * Software lead
   * Manage development and testing of software components of robot control systems
-  * Work with SOftware Members, Strategy Lead, and Strategy members to develop an auto Strategy for the season.
+  * Work with Software Members, Strategy Lead, and Strategy members to develop an auto Strategy for the season.
   * Lead the software department by teaching curriculum, working to recruit and retain members, attending leads meetings, Organize 
   * Help Drivers understand and use robot control software.
   * As an owner of the Iron Riders github, take responsibility for the upkeep of repositories and teams. 
@@ -242,7 +242,7 @@ The following leads are responsible for maintaining the following roles.
   * Maintain and contribute to the documentation and history, stored on the website and github.
   * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
   * Work with communications lead to maintain functionality of the website, as opposed to content management. 
-  * Work with Strategy to win the Innovation In Control Systems Award, through doing cool things and talking about them to the judges.
+  * Work with Strategy to win the Innovation In Control Systems Award
 * CAD Specialist
   * Develop CAD/Design curriculum
   * Teach curriculum
