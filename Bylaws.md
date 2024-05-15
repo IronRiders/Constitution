@@ -30,6 +30,7 @@ This Bylaw establishes the chain of club command. In the event that a captain is
 * Build Lead
 * Software Lead
 * CAD Lead
+* Outreach Coordinator
 
 ## Bylaw #4
 
@@ -76,7 +77,7 @@ The following leads are responsible for maintaining the following roles.
   * Regular all-team updates (ex: Iron Update)
   * Communications
   * Help lead team
-  * Help lead Meetings
+  * Help lead meetings
   * Documentation
   * Update website
   * Leads Meetings Minutes
@@ -151,7 +152,7 @@ The following leads are responsible for maintaining the following roles.
   * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
   * Work with communications lead to maintain functionality of the website, as opposed to content management. 
   * Work with Strategy to win the Innovation In Control Systems Award
-* CAD Specialist
+* CAD Lead
   * Develop CAD/Design curriculum
   * Teach curriculum
   * Work with Strategy Department to draft the Design Platform
@@ -166,7 +167,8 @@ The following leads are responsible for maintaining the following roles.
   * Rename Design Lead to Design Specialist 
   * Have co-managers (design and hardware specialists) lead the engineering department
   * Jointly responsible with hardware specialist for creating a fall curriculum
-  
+ *Outreach Coordinator
+  *  
 ## Bylaw #5
 
 ### Section 1
