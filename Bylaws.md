@@ -229,3 +229,7 @@ This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of th
 ## Bylaw #6
 
 A member can nominate another member for an appointed position and the lead/leads that appoint that position will take that nomination into consideration.
+## Bylaw #7
+Absentee voting is allowed. However some extra rules apply, namely:
+1.)One must contact the coach with your intent to absent-vote at least 48 hours before the vote commences.
+2.)One must vote prior to the physical election
