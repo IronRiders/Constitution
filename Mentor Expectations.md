@@ -1,7 +1,6 @@
 # Mentor Expectations
  
  * Must follow all SPS codes of conduct regarding volunteers
- * Should be interviewed
  * Must sign a non discriminatory statement
  * Must be a productive member of the mentor team
  * Must adopt a teaching model instead of a telling model

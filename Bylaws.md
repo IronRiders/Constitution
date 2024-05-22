@@ -30,7 +30,6 @@ This Bylaw establishes the chain of club command. In the event that a captain is
 * Build Lead
 * Software Lead
 * CAD Lead
-* Outreach Coordinator
 
 ## Bylaw #4
 
@@ -167,7 +166,6 @@ The following leads are responsible for maintaining the following roles.
   * Rename Design Lead to Design Specialist 
   * Have co-managers (design and hardware specialists) lead the engineering department
   * Jointly responsible with hardware specialist for creating a fall curriculum
- *Outreach Coordinator
   *  
 ## Bylaw #5
 
