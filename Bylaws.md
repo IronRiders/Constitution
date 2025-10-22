@@ -20,16 +20,37 @@ There will be a folder, accessible to all, in which important documents will be 
 
 ## Bylaw #3
 
-This Bylaw establishes the chain of club command. In the event that a captain is needed, this is the order.
+This Bylaw establishes the chain of club command and order of succession.
 
-* Team Captain
-* Communications Lead
-* Project Manager
-* Business Lead
-* Strategy Lead
-* Build Lead
-* Software Lead
-* CAD Lead
+### Chain of Command
+
+* Executives
+* Directors
+* Leads
+* Members
+
+Drive Coach and Mentors exist outside of this structure, but report to Executives.
+
+In the event that a captain is needed, this is the order:
+
+* Operations
+  * Operations Executive/Captain
+  * Communications Director
+  * Strategy Director
+  * Finance Director
+  * Marketing Director
+  * Outreach Director
+* Technical
+  * Robot Executive/Captain
+  * Strategy Director
+  * Design Director
+  * Build Director
+  * Software Director
+* Strategy
+  * Strategy Director
+  * Drive Coach
+  * Head Strategist
+  * Head Scout 
 
 ## Bylaw #4
 
