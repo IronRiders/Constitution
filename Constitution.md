@@ -24,9 +24,23 @@ A student leadership team will govern the Iron Riders Robotics Club with the adv
 
 ## Article 4: Leadership Team
 
-The club will consist of one Team Captain, a Communications Lead, a Project Manager, Build Lead, Software Lead, CAD Lead, Business Manager, and a Strategy Lead. They communicate and organize meetings.
+The club will consist of three tiers of leadership: Executives, Directors and Leads. The responsibilities of each position are described in the bylaws.
 
-These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
+The Executive positions are an Operations Captain and a Robot Captain. Each Executive position leads a domain named after that executive position.
+
+The Director positions within the Operations domain are Finance Director, Marketing Director, Communications Director, Outreach Director, and Strategy Director.
+
+The Director positions within the Robot domain are Controls Director, Build Director, Design Director, Strategy Director, and Drive Coach.
+
+Strategy Director is a single position that exists in both domains and is led equally by the executives of both domains.
+
+The Lead positions will include a Head Scout, a Scouting App Lead, and a Logistics Manager, and Vision Lead.
+
+The Lead roles within the Operations domain are Head Scout, Scouting App Lead, and Logistics Manager.
+
+the Lead roles within the Robot domain are Head Scout, Scouting App Lead, and Vision Lead.
+
+Head Scout and Scouting App Lead are single positions that exist in both domains and are led equally by the executives of both domains.
 
 ## Article 5: Election Process
 
