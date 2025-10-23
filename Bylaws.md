@@ -1,12 +1,18 @@
-# Bylaws
+- [Bylaw #1](#bylaw-1)
+- [Bylaw #2](#bylaw-2)
+- [Bylaw #3](#bylaw-3)
+- [Bylaw #4](#bylaw-4)
+- [Bylaw #5](#bylaw-5)
+- [Bylaw #6](#bylaw-6)
+- [Bylaw #7](#bylaw-7)
 
-## Bylaw #1
+# Bylaw #1
 
 Each lead must maintain a task list. This should be readily available. The purpose is to instruct whosoever is at any given meeting while the leads are not there in how to proceed with the jobs they need to do, and to document exactly what has been done for future reference. 
  
 This document will be posted where any may see it so that it can be used at any time. 
 
-## Bylaw #2
+# Bylaw #2
 
 There will be a folder, accessible to all, in which important documents will be placed pertaining to this club.
 
@@ -18,179 +24,397 @@ There will be a folder, accessible to all, in which important documents will be 
 * A mentor may overrule a lead by placing or removing any document they deem necessary.
 * This will be a hardcopy paper file or an electronic file.
 
-## Bylaw #3
+# Bylaw #3
 
 This Bylaw establishes the chain of club command and order of succession.
 
-### Chain of Command
-
-* Executives
-* Directors
-* Leads
-* Members
+1. Executives
+1. Directors
+1. Leads
+1. Members
 
 Drive Coach and Mentors exist outside of this structure, but report to Executives.
 
-In the event that a captain is needed, this is the order:
-
+In the event that a captain is needed, the order is
 * Operations
-  * Operations Executive/Captain
-  * Communications Director
-  * Strategy Director
-  * Finance Director
-  * Marketing Director
-  * Outreach Director
+  1. Operations Executive/Captain
+  1. Communications Director
+  1. Strategy Director
+  1. Finance Director
+  1. Marketing Director
+  1. Outreach Director
 * Technical
-  * Robot Executive/Captain
-  * Strategy Director
-  * Design Director
-  * Build Director
-  * Software Director
+  1. Robot Executive/Captain
+  1. Strategy Director
+  1. Design Director
+  1. Build Director
+  1. Controls (Software) Director
 * Strategy
-  * Strategy Director
-  * Drive Coach
-  * Head Strategist
-  * Head Scout 
+  1. Strategy Director
+  1. Drive Coach
+  1. Head Strategist
+  1. Head Scout 
 
-## Bylaw #4
+# Bylaw #4
 
-The following leads are responsible for maintaining the following roles.
+The Iron Riders is divided into two domains: Robot and Operations. Each domain has an Executive to manage it and foster collaboration between domains.
 
-* Team Captain
-  * Lead Meetings
-  * Lead Team and People Management
-  * Managing the constitution
-  * Ensure that the club is ASR compliant
-  * Maintain team roster (personal info, status on things, anonymous demographics)
-  * Paperwork, forms etc...
-  * Post agendas for meeting/announce about meetings
-  * Contacting people on an individual level
-  * Communication with other teams → 17-18 leads can decide this
-  * Recruit new members
-  * Ensure diversity and inclusion
-  * Mentor Recruitment
-  * RHS event coordination
-  * Help PM make a timeline for the year and finalize that timeline
-  * Encourage team spirit (make sure we have things like t-shirts, hats, a flag, cheers, a mascot, and other swag and that people are being spirited)
-  * Encourage gracious professionalism and coopertition
-  * Encourage STEM
-  * Appoint executive assistants to aid them and the communications lead (ex: food/transport, outreach, paperwork, social media)
-  * Jointly appoints a separate outreach coordinator with the Communications Lead
-  * Required to create meeting agendas 24 hours in advance of meeting
-  * In charge of psychological safety (by working with the other team leaders, mentors, and members) 
-* Project Manager
-  * PMs main responsibility is managing the construction of the robot during build season by keeping track of the tasks and timelines and preparing for it ahead of time. They communicate directly with the engineering leads (aka the people managers) not with the individual members of their departments. Off season, the PM becomes a “consultant” who is only responsible for managing a project if requested by another lead/people manager.
-  * PM is held responsible for using some type of PM system that is accessible to the entire team digitally all the time and displayed if needed during work meetings. Project manager would be responsible for helping the department leads set up ad hoc groups (not assigning people to them or helping them, but keeping track of the progress of those working groups and helping department leads know what pieces of a project should be broken into ad hoc groups) → PM holds accountable the working groups/ad hoc groups for delivering their projects (ie interdepartmental groups working on pieces of a project). Additionally they would be responsible for advising working groups (working on projects nobody has asked the PM to manage themselves) on how to PM their project.
-  * Manages daily list of tasks for projects assigned to them (displays and allows sign-ups)
-  * Must hold status updates at a minimum 1 per week during a project managed by them
-* Communications Lead
-  * Stand in for/help out Team Captain when needed
-  * Communication with our team 
-  * Send/Post announcements (big announcements and updates)
-  * Outreach (coordinating with other teams and with our team)
-  * Mentor Communication
-  * Roosevelt community communications
-  * Alumni relations
-  * Parental contact
-  * Booster club contact
-  * Food/Transportation
-  * Regular all-team updates (ex: Iron Update)
-  * Communications
-  * Help lead team
-  * Help lead meetings
-  * Documentation
-  * Update website
-  * Leads Meetings Minutes
-  * Other Meeting Minutes When Necessary
-  * Chairman's Award
-  * Jointly appoints a separate outreach coordinator with the Team Captain
-  * In charge of social media
-* Business Manager
-  * Grant writing
-  * Treasurer
-  * Fundraising
-  * Getting and maintaining sponsorships
-  * Maintaining fiscal workflows (Purchase approvals and reimbursements)
-  * Training members on workflows
-  * Keep track of cost for part sourcing
-  * Marketing/Advertising (posters, social media presence etc.)
-  * Branding (team swag, graphic design etc.)
-  * Taking photos and video
-  * In charge of keeping track of which sponsors are on the aesthetics board and making sure that it gets done by hardware and design
-* Strategy Lead
-  * Must research and/or be knowledgeable in the areas of Strategic Design, Scouting, Match Strategies, and Robot Control & Operation, or similar
-  * Lead the Strategy Department by teaching the curriculum, working to recruit and retain members, and attending leads meetings,
-  * Organise and lead the team in through the Game Analysis phase of Strategic Design on Kickoff
-  * Must lead the team through the Cost-Benefit Analysis phase of Strategic Design
-  * Must compile the ultimate goal for the season, general game strategy and robot priorities into a draft of the Design Platform with help from the Strategy Department and Design Leads.
-  * Responsible for editing and presenting the Design Platform to the Design Leads for review, which will be frozen upon the signature of both leads.
-  * The Strategy Lead or a delegate form the Strategy Department will advise the Design Leads and Department during the Functional Design Process and transition to Mechanical Design
-  * Strategy Lead must become an expert on the rules and ensure that the team is on the same page with the rules starting on kickoff and throughout the season.
-  * Must determine the order of priority for the construction of the Field Elements and ensure Field/ Field Element construction is built to Feild Drawing specifications
-  * Strategy Lead must manage Q&A in regards to the rules
-  * Must give Weekly updates on the rules
-  * Strategy Lead must facilitate the creation and training of Drive Team working to recruit and retain members, and hold practices, and select the final Competition Drive Team.
-  * Must appoint or act as and train a Drive Coach, Head Strategist, and Match Strategist (or equivalent positions determined by the Veteran Strategy Department Members). However, the  Strategy Lead may not act as either of the latter two in addition to the former most.
-  * Strategy Lead and/or Department will meet with the Software Lead and members of the Software department to determine Auto Strategy for the season.
-  * Responsible for ensuring pre-scouting reports are created and shared as per the scouting guidelines determined by the Veteran Strategy Department Members
-  * Must appoint a Head Pit Scout and Head Match Scout
-  * Strategy Lead is responsible for the Strategy sub leads executing appropriate strategic procedures at competitions, including but limited to, scouting, match strategizing, briefing drive team, coordinating with alliance members, post-match analysis, etc.
-  * Strategy Lead manages and/or advises the creation of the Reveal Video or any other public reveal and decides what information to and not to reveal interest of long term strategies.
-* Build Lead
-  * Manage robot construction based off of the robot design
-  * Make/Teach hardware curriculum
-  * RP lab inventory
-  * Pit inventory
-  * Part Sourcing
-  * Keep RP lab clean
-  * Appoint pit boss
-  * Make field elements
-  * Pit building
-  * Electronics/Wiring
-  * Pneumatics
-  * Motors
-  * Mechanical fabrication
-  * Manag robot transport
-  * Make bumpers
-  * Makes Aesthetics board
-  * Combined hardware and design to form Engineering
-  * Rename hardware lead to Build Lead
-  * Have co-managers (design and hardware leads) lead the engineering department
-  * Jointly responsible with design specialist for creating a fall curriculum
-  * Have a Quartermaster responsible for managing supplies in RP lab (this would be an appointed position by the build specialist)
-  * Appoint safety lead
-* Software lead
-  * Manage development and testing of software components of robot control systems
-  * Work with Software Members, Strategy Lead, and Strategy members to develop an auto Strategy for the season.
-  * Lead the software department by teaching curriculum, working to recruit and retain members, attending leads meetings, Organize 
-  * Help Drivers understand and use robot control software.
-  * As an owner of the Iron Riders github, take responsibility for the upkeep of repositories and teams. 
-  * Ensure software on the development computers and robot components it up to date.
-  * Troubleshoot connection issues with the robot
-  * Keep inventory of software resources such as laptops, joysticks, and sensors
-  * Maintain and contribute to the documentation and history, stored on the website and github.
-  * Coordinate development and use of software solutions for competition scouting, such as apps and/or other types of computerized data analysis
-  * Work with communications lead to maintain functionality of the website, as opposed to content management. 
-  * Work with Strategy to win the Innovation In Control Systems Award
-* CAD Lead
-  * Develop CAD/Design curriculum
-  * Teach curriculum
-  * Work with Strategy Department to draft the Design Platform
-  * Review Design Platform presented by Strategy Lead, propose changes in needed, and freeze by signing.
-  * Provide hardware with list of specific parts used in the design
-  * Design robot (with bumpers included) working hand-in-hand with strategy
-  * Ensure the other departments have access to the design of the robot
-  * CAD robot
-  * Ensure robot is built to game manual specifications
-  * Designs Aesthetics Board
-  * Combined hardware and design to form Engineering
-  * Rename Design Lead to Design Specialist 
-  * Have co-managers (design and hardware specialists) lead the engineering department
-  * Jointly responsible with hardware specialist for creating a fall curriculum
-  *  
-## Bylaw #5
+- [Operations Domain](#operations-domain)
+- [Robot Domain](#robot-domain)
+- [Robot Design Council (RDC)](#robot-design-council-rdc)
+- [Leadership Decisions](#leadership-decisions)
+- [Changes to the Leadership Structure](#changes-to-the-leadership-structure)
 
-### Section 1
+## Operations Domain
+
+- [Operations Captain](#operations-captain)
+- [Directors](#directors)
+  - [Finance Director](#finance-director)
+  - [Strategy Director](#strategy-director)
+  - [Communications Director](#communications-director)
+  - [Outreach Coordinator](#outreach-coordinator)
+  - [Marketing Director](#marketing-director)
+- [Leads](#leads)
+  - [Logistics Manager](#logistics-manager)
+  - [Scouting Manager](#scouting-manager)
+  - [Scouting App Lead](#scouting-app-lead)
+
+### Operations Captain
+
+The role of Operations Captain is an elected position. The Operations Captain may not hold another elected position concurrently and is limited to one appointed position if deemed necessary.
+
+The role of the Operations Captain is to manage the Operations side of the team. Responsibilities include:
+* Being a strong role model for team members
+* Managing and supporting Directors
+* Guiding the Operations domain through the season's projects
+* Leading Operations domain meetings
+* Working hand-in-hand with the Robot Captain to lead the Iron Riders
+* Proactively bringing unresolved issues to mentors
+* Promoting team productivity and well-being by reflecting the team's needs
+* Adapting the Constitution as needed
+* Aiding in appointing the Marketing Director, Communications Director, Outreach Director, and Logistics Manager
+
+### Directors
+
+An elected Director may not hold more than one elected position concurrently and is limited to one appointed position if deemed necessary. Appointed Directors may hold no more than two appointed positions if deemed necessary. 
+
+The role of a Director is to manage their department. Responsibilities include:
+* Being a strong role model for all members
+* Managing and supporting Leads
+* Encouraging, teaching, and guiding reports
+* Communicating progress, plans, and problems to all of leadership
+* Monitoring the department's well-being and progress
+* Appointing respective Leads within their department
+
+### Finance Director
+
+This position must be elected.
+
+The role of the Finance Director is to manage and lead the Finance Department. Responsibilities include:
+* Managing team finances
+* Writing grant applications
+* Managing purchase requests
+* Working with the Marketing Director to secure sponsorships and organize fundraisers
+* Managing and enforcing the curriculum of the Finance Department
+
+### Strategy Director
+
+This position must be elected.
+
+This role is co-led by the Robot Captain and the Operations Captain.
+
+The role of the Strategy Director is to manage and lead the Strategy Department. Responsibilities include:
+* Managing and enforcing the curriculum of the Strategy Department
+* Leading the department during competition season in making tournament, event, match, team, and robot strategy
+* Maintaining match and pit scouting throughout competitions
+* Guiding the Drive Coach by providing match strategy
+* Guiding RDC with team, event, tournament, and robot strategy
+* Guiding the team by providing team, event, and tournament strategy
+* Working with all of leadership to achieve awards
+* Organizing pit/scouting schedules with the Drive Coach, Build Director, Controls (Software) Director, and Scouting Manager
+
+### Communications Director
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Operations Captain
+
+The role of the Communications Director is to manage intra-team communication and scheduling. Responsibilities include:
+* Working with the Operations Captain to manage and track the Operations curriculum
+* Maintaining a schedule for General and Operations meetings with the Operations Captain and Robot Captain
+* Managing the team Discord
+* Sending important information to parents and weekly updates to members and mentors
+* Keeping meeting minutes for General, Operations, and Leadership meetings
+
+### Outreach Coordinator
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Operations Captain
+
+The role of the Outreach Coordinator is to manage team outreach efforts. Responsibilities include:
+* Working with the Logistics Manager to organize outreach events and maintain a calendar for outreach events
+* Facilitating the creation and maintenance of FLL and FTC teams, including appointing and guiding Student Mentors
+* Coordinating recruitment activities (assemblies, club fairs, classroom presentations, etc.)
+* Collaborating with the Marketing Director to design promotional material for the team
+* Maintaining relationships with other teams by organizing social events outside of build season
+
+### Marketing Director
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Operations Captain
+* Finance Director
+
+The role of the Marketing Director is to manage team branding. Responsibilities include:
+* Managing and enforcing the curriculum of the Marketing Department
+* Managing the team's social media and working with the Controls (Software) Director to maintain the team’s website
+* Organizing fundraising events and securing sponsorships with the aid of the Finance Director
+* Maintaining a calendar for fundraising events
+* Developing graphics for team promotion with the Outreach Coordinator
+* Designing and purchasing spirit items (shirts, flag, mascot costume, banner, buttons, stickers, etc.)
+
+### Leads
+
+These roles must be appointed.
+
+The role of a Lead is to manage their specific skill/group. Responsibilities include:
+* Being a strong role model for all members
+* Managing, supporting, and guiding reports
+* Communicating progress, plans, and problems with all leadership
+* Monitoring the department’s/reports’ well-being and progress
+
+The existing Lead roles under the Operations Domain are:
+* Logistics Manager
+* Scouting Manager
+
+The Scouting Manager is co-led by the Robot Captain and the Operations Captain.
+
+### Logistics Manager
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Operations Captain
+
+The role of the Logistics Manager is to manage team logistics. Responsibilities include:
+* Coordinating with mentors and coaches to organize transportation and food for all events, including fundraising and outreach events
+* Ensuring the team remains ASR compliant
+* Completing any other tasks deemed to be in the domain of the Logistics Manager by the Operations Captain
+
+### Scouting Manager
+
+This role is co-led by the Robot Captain and the Operations Captain.
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Robot Captain
+* Operations Captain
+* Strategy Director
+* Drive Coach
+
+The role of the Scouting Manager is to manage pit and match scouting during competition. Responsibilities include:
+* Managing pit scouting
+* Managing match scouting
+* Enforcing usage of the scouting app
+* Managing curriculum of the scouting app
+* Sharing data with Strategy Director and Drive Coach
+* Organizing pit/scouting schedules with the Drive Coach, Controls (Software) Director, Build Director, and Strategy Director
+
+### Scouting App Lead
+
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Robot Captain
+* Controls (Software) Director
+* Strategy Director
+
+The role of the Scouting App Lead is to develop digital scouting programs with the Strategy Department. Responsibilities include:
+* Working with Strategy to create an outline of what data should be collected and how it should be displayed
+* Creating or adapting a scouting website during the season to follow these constraints
+* Teaching Strategy members how to use the app/website
+* Teaching curriculum on how the scouting app is built and how to adjust it for a new game
+* Working with Scouting Alliance partners on the scouting app (if applicable)
+
+## Robot Domain
+
+- [Robot Captain](#robot-captain)
+- [Directors](#directors-1)
+  - [Controls (Software) Director](#controls-software-director)
+  - [Build Director](#build-director)
+  - [Design Director](#design-director)
+  - [Strategy Director](#strategy-director-1)
+  - [Drive Coach](#drive-coach)
+  - [Leads](#leads-1)
+  - [Scouting Manager](#scouting-manager-1)
+  - [Vision Lead](#vision-lead)
+  - [Scouting App Lead](#scouting-app-lead-1)
+
+The role of Robot Domain leadership collectively is to ensure safe, compliant, and effective operation. Responsibilities include:
+* Completing leadership training (provided by Mentors) before the start of the school year
+* Completing safety training (provided by FIRST) before the start of the school year
+* Maintaining the physical safety of all members at all times
+* Monitoring all members’ well-being
+* Being familiar with, and following, all safety rules of FIRST
+* Being familiar with, and following, all rules of the game relating to one’s department
+* Appointing someone to take their place temporarily in case of absence
+* Creating a personal reflection of one’s role(s)
+
+### Robot Captain
+
+This role must be elected. The Robot Captain may not hold another elected position concurrently, and is limited to one appointed position if deemed necessary.
+
+The role of the Robot Captain is to manage the Robot Domain of the Iron Riders. Responsibilities include:
+
+* Being a strong role model for all members
+* Managing and supporting Directors
+* Guiding the Robot team through projects, seasons, and meetings (includes RDC)
+* Working hand-in-hand with the Operations Captain on leading the Iron Riders
+* Proactively bringing unresolved issues to mentors
+* Promoting team productivity and well-being by reflecting the team’s needs
+* Adapting the Constitution as needed
+* Appointing the Safety Captain role to a member of the team during a competition
+
+### Directors
+
+All director positions besides Drive Coach must be elected. The position of Drive Coach must be appointed (see Drive Coach for more information). A director may not hold more than one elected position concurrently, and is limited to one appointed position if deemed necessary.
+
+The role of a Director is to manage their department. Responsibilities include:
+* Being a strong role model for all members
+* Managing and supporting Leads
+* Encouraging, teaching, and guiding reports
+* Communicating progress, plans, and problems with all leadership
+* Monitoring department/report well-being and progress
+* Appointing respective Lead(s) underneath them
+
+### Controls (Software) Director
+
+The role of the Controls (Software) Director is to manage the Software Department. Responsibilities include:
+* Managing and enforcing the curriculum of the Software Department
+* Leading reports during competition season in creating code for the team
+* Ensuring all Drive Team members are aware of robot controls and software
+* Maintaining an inventory of all software and drive resources with the Drive Coach
+* Organizing pit/scouting schedules with the Drive Coach, Build Director, Strategy Director, and Scouting Manager
+* Maintaining the website as administered by the Marketing Director
+* Deciding the Technician role during competition alongside the Build Director and Drive Coach
+
+### Build Director
+
+The role of the Build Director is to manage the Build Department. Responsibilities include:
+* Managing and enforcing the curriculum of the Build Department
+* Leading reports during competition season in building the physical robot
+* Monitoring the status of all mechanisms, electronics, and projects related to Build
+* Maintaining an inventory of all Build items
+* Organizing pit/scouting schedules with the Drive Coach, Controls (Software) Director, Strategy Director, and Scouting Manager
+* Deciding the Technician role during competition alongside the Controls (Software) Director and Drive Coach
+
+### Design Director
+
+The role of the Design Director is to manage the Design Department. Responsibilities include:
+* Managing and enforcing the curriculum of the Design Department
+* Leading reports during competition season in creating the robot CAD document
+* Ensuring all leadership has access to the CAD documents
+* Maintaining the team’s folder of documents on Onshape
+* Guiding the design process
+* Managing prototyping
+
+### Strategy Director
+
+_Refer to the [description of the Strategy Director](#strategy-director)_
+
+### Drive Coach
+
+This role must be appointed. The majority (>50%) of the prior Drive Team and the Coach(es) (and any Mentors they choose to include) must approve of the Drive Coach. Any member may have the Drive Coach role, but may not have two appointed roles.
+
+The role of the Drive Coach is to maintain the Drive Team. Responsibilities include:
+* Holding Drive Team tryouts
+* Selecting Drive Team A with the Coach(es) and any mentors the Coach(es) would like present
+* Selecting Drive Team B with the Coach(es) and any mentors the Coach(es) would like present
+* Leading competitions
+* Monitoring the physical and mental well-being of all reports
+* Being knowledgeable in and ensuring all reports understand robot controls and software
+* Organizing pit/scouting schedules with the Strategy Director, Controls (Software) Director, Build Director, and Scouting Manager
+* Deciding the Technician role during competition alongside the Controls (Software) Director and Build Director
+
+### Leads
+
+These roles must be appointed.
+
+The role of a Lead is to manage their specific skill/group. Responsibilities include:
+* Being a strong role model for all members
+* Managing, supporting, and guiding reports
+* Communicating progress, plans, and problems with all leadership
+* Monitoring the department's/reports' well-being and progress
+
+The existing Lead roles underneath the Robot domain are as follows
+* Scouting Manager
+* Vision Lead
+* Scouting App Lead
+
+### Scouting Manager
+
+_Refer to the [description of the Scouting Manager](#scouting-manager)_
+
+### Vision Lead
+
+This role may be appointed by the following:
+* The Coach(es) and any mentors chosen by them
+* Robot Captain
+* Controls (Software) Director
+
+The role of the Vision Lead is to manage the development and implementation of camera-based automatic alignment systems and autonomous movement. Responsibilities include:
+* Managing inventory of cameras and post-processing devices (for example Orange Pi boards)
+* Managing development of automatic alignment software and autonomous routines
+* Managing curriculum specific to Vision
+
+### Scouting App Lead
+
+_Refer to the [description of the Scouting App Lead](#scouting-app-lead)_
+
+## Robot Design Council (RDC)
+The Robot Design Council (RDC) is a group of Members and Mentors who vote on the Key Decision Points for the Gated Design Process. They will approve, disapprove, or abstain on proceeding to the next phase. They can also inform the team about modifications that need to be done to head to the next phase, or make explicit choices.
+
+Voting Rules:
+* At least 65% must approve to proceed to next phase
+* Majority must approve commentary to team on modifications
+* Results of votes must be released to the team for passage to occur
+* If the drive coach fills another position on the RDC, they will not be included in the voting percentages and cannot vote as the drive coach. This rule also applies if a student holds more than one position on the RDC. 
+* Mentors' voting is optional, and if they do not vote, they won’t be counted towards voting percentages.
+* Members of the council can appoint a delegate for themselves.
+* Only one mentor per subject can vote in a meeting, but it does not have to be the same mentor for all RDC meetings. 
+
+The RDC consists of:
+* The Coach(es) and/or any Mentors they choose
+* Robot Captain
+* Operations Captain
+* Controls (Software) Director
+* Strategy Director
+* Build Director
+* Drive Coach
+* Design Director
+
+## Leadership Decisions
+
+Decisions affecting the entire team shall be made by Executives and Directors requiring a minimum of 6 votes, regardless of quorum.
+
+Coaches reserve veto powers over any Leadership Decision.
+
+## Changes to the Leadership Structure
+
+As the Iron Riders changes its students, the leadership structure may need to change to reflect the team more effectively. In the case of this, students must address their concerns to any member of leadership, who must relay them to the Coach(es). The Coach(es) will proceed accordingly.
+
+### Executives/Directors
+
+Changes to the executive/director roles must be a Leadership Decision.
+
+Additionally, all Coach(es) must agree to the change.
+
+### Leads
+
+The Lead positions may be temporarily changed anytime during the year, including the main season. Temporary changes will cease to exist after the team’s competition season unless otherwise decided by the Coach(es). The new change must be a Leadership Decision.
+
+# Bylaw #5
+
+## Section 1
  With the passage of this bylaw FIRST WA Team FRC 4180, The Iron Riders, formally:
 
  * Recognise and acknowledge that we meet and operate on the traditional land of the first people of Seattle, the Duwamish People past and present, and honor with gratitude the land itself and the Duwamish Tribe.
@@ -208,7 +432,7 @@ The following leads are responsible for maintaining the following roles.
 
  * Recognise, even publicly, that the Iron Riders need to do everything within their power to address and eliminate Racism, Sexism, and Discriminition within the team and community and replace it with Equity, Diversity, and Inclusion.
 
-### Section 2
+## Section 2
  This bylaw will require the team and it’s leadership to comply with the following:
 
  - Require Student Leaders and the Team’s Mentors/Coaches to through and discuss Equity Diversity and Inclusion Training modules. This must be completed before build season starts at the latest. (It should be noted and recommended that doing this before starting the school year will have the most beneficial effect.)
@@ -242,13 +466,14 @@ The following leads are responsible for maintaining the following roles.
 
  - Requires the Iron Riders to be able to accommodate all students equitably to the best of their abilities.
 
-### Section 3
+## Section 3
 This Bylaw shall be voted on by the rules stated in Article 10 Amendment 1 of the Iron Riders Constitution and will be passed by a simple majority open ballot. It will be ratified by approval of a Coach. Quorum for second was set at 7, 7 votes were cast, bylaw passed 7 yes, 0 no, 0 abstain.
 
-## Bylaw #6
+# Bylaw #6
 
 A member can nominate another member for an appointed position and the lead/leads that appoint that position will take that nomination into consideration.
-## Bylaw #7
+
+# Bylaw #7
 
 Absentee voting is allowed. However some extra rules apply, namely:
 1. One must contact a coach with the intent to absent-vote at least 48 hours before the vote commences.
