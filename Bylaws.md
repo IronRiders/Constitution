@@ -187,8 +187,7 @@ The role of a Lead is to manage their specific skill/group. Responsibilities inc
 The existing Lead roles under the Operations Domain are:
 * Logistics Manager
 * Scouting Manager
-
-The Scouting Manager is co-led by the Robot Captain and the Operations Captain.
+* Morality Lead
 
 ### Logistics Manager
 
@@ -220,20 +219,9 @@ The role of the Scouting Manager is to manage pit and match scouting during comp
 * Sharing data with Strategy Director and Drive Coach
 * Organizing pit/scouting schedules with the Drive Coach, Controls (Software) Director, Build Director, and Strategy Director
 
-### Scouting App Lead
+### Morality Lead
 
-This role is appointed by:
-* The Coach(es) and any mentors chosen by them
-* Robot Captain
-* Controls (Software) Director
-* Strategy Director
-
-The role of the Scouting App Lead is to develop digital scouting programs with the Strategy Department. Responsibilities include:
-* Working with Strategy to create an outline of what data should be collected and how it should be displayed
-* Creating or adapting a scouting website during the season to follow these constraints
-* Teaching Strategy members how to use the app/website
-* Teaching curriculum on how the scouting app is built and how to adjust it for a new game
-* Working with Scouting Alliance partners on the scouting app (if applicable)
+This role is to designate that these people can be contacted if input on a moral questions is required. The rest of the responsibilities of a lead still apply.
 
 ## Robot Domain
 
@@ -368,7 +356,18 @@ The role of the Vision Lead is to manage the development and implementation of c
 
 ### Scouting App Lead
 
-_Refer to the [description of the Scouting App Lead](#scouting-app-lead)_
+This role is appointed by:
+* The Coach(es) and any mentors chosen by them
+* Robot Captain
+* Controls (Software) Director
+* Strategy Director
+
+The role of the Scouting App Lead is to develop digital scouting programs with the Strategy Department. Responsibilities include:
+* Working with Strategy to create an outline of what data should be collected and how it should be displayed
+* Creating or adapting a scouting website during the season to follow these constraints
+* Teaching Strategy members how to use the app/website
+* Teaching curriculum on how the scouting app is built and how to adjust it for a new game
+* Working with Scouting Alliance partners on the scouting app (if applicable)
 
 ## Robot Design Council (RDC)
 The Robot Design Council (RDC) is a group of Members and Mentors who vote on the Key Decision Points for the Gated Design Process. They will approve, disapprove, or abstain on proceeding to the next phase. They can also inform the team about modifications that need to be done to head to the next phase, or make explicit choices.
