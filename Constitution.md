@@ -1,4 +1,5 @@
 # The Iron Riders Robotics Club Constitution
+
 Seattle, Washington
 
 ## Article 1: Name
@@ -7,7 +8,7 @@ This club will be referred to as the Iron Riders.
 
 ## Article 2: Purpose
 
-This club's purpose is to include students interested in participating in the FIRST Robotics Competition, in the construction of complex robots, advanced mechanics, software programming,  business management, competition strategy, or any students interested in recruiting corporate sponsors or advertising/marketing. The goals of The Iron Riders are:
+This club's purpose is to include students interested in participating in the FIRST Robotics Competition, in the construction of complex robots, advanced mechanics, software programming, business management, competition strategy, or any students interested in recruiting corporate sponsors or advertising/marketing. The goals of The Iron Riders are:
 
 * To compete in the FIRST Robotics Competition.
 * To gain members for growth and development of the Roosevelt community as well as FIRST Robotics.
@@ -50,7 +51,7 @@ Each member of the leadership team will maintain their position until the next e
 
 A member of the leadership team is expected to meet the responsibilities associated with their position, and, if unable, they may choose to step down after talking with a mentor. They must appoint an interim lead which must be approved by a simple majority of the other leads until the position is filled.
 
-If the lead continues to not meet the expectations associated with their position and chooses not to step down, they may be impeached by five out of the other seven. If impeached, that person is no longer a lead, and cannot become a lead again until the next general election. It is up to the remaining leads whether or not to appoint an interim lead during the offseason, however, during competition season, they must choose an interim lead.
+If the lead continues to not meet the expectations associated with their position and chooses not to step down, they may be impeached by five out of the other seven. If impeached, that person is no longer a lead, and cannot become a lead again until the next general election. It is up to the remaining leads whether or not to appoint an interim lead during the off-season, however, during competition season, they must choose an interim lead.
 
 If a lead disappears, it is up to the mentors and other leads to decide which of the above two paths to take.
 
@@ -86,7 +87,7 @@ The signatures of a majority of the leadership and the club advisors shall ratif
 
 ### Amendment 1: Bylaws
 
-This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes. 
+This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes.
 
 * A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
 * Anyone may propose a bylaw.
@@ -95,7 +96,7 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
   * If it does not pass, there will then be a vote to amend the bylaw, passed by a simple majority, voted on by at least 7 members of the club, and passed by at least one mentor.
   * There will then be another vote to pass by the bylaw.
   * If the bylaw does not pass, another amendment may be proposed.
-* A bylaw may be brought up for a revote at any time, but may not be brought up more than twice in any one week.
+* A bylaw may be brought up for a re-vote at any time, but may not be brought up more than twice in any one week.
 
 ~~### Amendment 2: Quorum~~
 
@@ -103,8 +104,8 @@ This Amendment to the Constitution acknowledges the existence of bylaws and thei
 
 ~~### Amendment 3: Leads in Emergency Elections~~
 
-~~In the case of a midseason vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. ~~
+~~In the case of a mid-season vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. ~~
 
 ## Article 12: Bylaws
 
-_Editor's Note: [Bylaws have been moved to a seperate document](./Bylaws.md) per a vote on April 16th, 2024._
+_Editor's Note: [Bylaws have been moved to a separate document](./Bylaws.md) per a vote on April 16th, 2024._
