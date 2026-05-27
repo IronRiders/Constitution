@@ -26,7 +26,7 @@ There will be a folder, accessible to all, in which important documents will be 
 - It will be the responsibility of the leads to make sure a copy of all the important documents pertaining to the government of the club is accessible within the file.
 - The leads of each division will determine which documents are important.
 - A mentor may overrule a lead by placing or removing any document they deem necessary.
-- This will be a hardcopy paper file or an electronic file.
+- This will be a hard copy paper file or an electronic file.
 
 ## Bylaw 3
 
