@@ -10,14 +10,14 @@ This club will be referred to as the Iron Riders.
 
 This club's purpose is to include students interested in participating in the FIRST Robotics Competition, in the construction of complex robots, advanced mechanics, software programming, business management, competition strategy, or any students interested in recruiting corporate sponsors or advertising/marketing. The goals of The Iron Riders are:
 
-* To compete in the FIRST Robotics Competition.
-* To gain members for growth and development of the Roosevelt community as well as FIRST Robotics.
-* To encourage leadership, engineering, programming, and high ethical standards respected in the business, engineering, and programming worlds.
-* To promote understanding and appreciation of science and technology.
-* To fundraise, gather sponsors, and provide recognition for local businesses through our business team.
-* To promote social development between different ages, genders, cultures, groups, communities, and people through the Robotics Club, the FIRST organization, and our group activities from meetings, events, FIRST Competitions, etc.
-* To represent Roosevelt High School well and leave a respectable image as representatives of our school.
-* To uphold the values of the FIRST organization.
+- To compete in the FIRST Robotics Competition.
+- To gain members for growth and development of the Roosevelt community as well as FIRST Robotics.
+- To encourage leadership, engineering, programming, and high ethical standards respected in the business, engineering, and programming worlds.
+- To promote understanding and appreciation of science and technology.
+- To fundraise, gather sponsors, and provide recognition for local businesses through our business team.
+- To promote social development between different ages, genders, cultures, groups, communities, and people through the Robotics Club, the FIRST organization, and our group activities from meetings, events, FIRST Competitions, etc.
+- To represent Roosevelt High School well and leave a respectable image as representatives of our school.
+- To uphold the values of the FIRST organization.
 
 ## Article 3: Organization
 
@@ -89,20 +89,20 @@ The signatures of a majority of the leadership and the club advisors shall ratif
 
 This Amendment to the Constitution acknowledges the existence of bylaws and their power to govern the club insofar as the bylaw proposes.
 
-* A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
-* Anyone may propose a bylaw.
-* A bylaw may be amended in the process of being passed by a simple majority.
-  * There will first be a vote to pass the bylaw as stands.
-  * If it does not pass, there will then be a vote to amend the bylaw, passed by a simple majority, voted on by at least 7 members of the club, and passed by at least one mentor.
-  * There will then be another vote to pass by the bylaw.
-  * If the bylaw does not pass, another amendment may be proposed.
-* A bylaw may be brought up for a re-vote at any time, but may not be brought up more than twice in any one week.
+- A bylaw is passed by a simple majority voted on by at least 7 members of the club, including mentors.
+- Anyone may propose a bylaw.
+- A bylaw may be amended in the process of being passed by a simple majority.
+  - There will first be a vote to pass the bylaw as stands.
+  - If it does not pass, there will then be a vote to amend the bylaw, passed by a simple majority, voted on by at least 7 members of the club, and passed by at least one mentor.
+  - There will then be another vote to pass by the bylaw.
+  - If the bylaw does not pass, another amendment may be proposed.
+- A bylaw may be brought up for a re-vote at any time, but may not be brought up more than twice in any one week.
 
-~~### Amendment 2: Quorum~~
+### ~~Amendment 2: Quorum~~
 
 ~~This Amendment hereby reduces the member requirement of a quorum from the previous Thirteen, to a new Seven, to better reflect the current Robotics member base.~~
 
-~~### Amendment 3: Leads in Emergency Elections~~
+### ~~Amendment 3: Leads in Emergency Elections~~
 
 ~~In the case of a mid-season vacancy of a position, if a lead runs for the position, then the lead will have a running mate who, if the lead is elected, will take on the role of their senior running mate. A current lead cannot be a running mate. ~~
 

@@ -1,12 +1,12 @@
 # Member Expectations
 
-* Must contribute positively
-* Must have a willingness to learn
-* Must have a willingness to teach/support others
-* Must communicate with leadership on availability*
-* Must respect other members, leadership, and mentors
-* Must follow no-tolerance policy for all discrimination, including, but not limited to: homophobia, racism, sexism, transphobia, religious discrimination
-* Must fill out the following:
+- Must contribute positively
+- Must have a willingness to learn
+- Must have a willingness to teach/support others
+- Must communicate with leadership on availability*
+- Must respect other members, leadership, and mentors
+- Must follow no-tolerance policy for all discrimination, including, but not limited to: homophobia, racism, sexism, transphobia, religious discrimination
+- Must fill out the following:
   1. RP Lab*
   2. Emergency Medical Information**
   3. FIRST Registration
