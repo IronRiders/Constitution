@@ -33,9 +33,9 @@ There will be a folder, accessible to all, in which important documents will be 
 This Bylaw establishes the chain of club command and order of succession.
 
 1. Executives
-1. Directors
-1. Leads
-1. Members
+2. Directors
+3. Leads
+4. Members
 
 Drive Coach and Mentors exist outside of this structure, but report to Executives.
 
@@ -43,22 +43,22 @@ In the event that a captain is needed, the order is:
 
 - Operations
   1. Operations Executive/Captain
-  1. Communications Director
-  1. Strategy Director
-  1. Finance Director
-  1. Marketing Director
-  1. Outreach Director
+  2. Communications Director
+  3. Strategy Director
+  4. Finance Director
+  5. Marketing Director
+  6. Outreach Director
 - Technical
   1. Robot Executive/Captain
-  1. Strategy Director
-  1. Design Director
-  1. Build Director
-  1. Controls (Software) Director
+  2. Strategy Director
+  3. Design Director
+  4. Build Director
+  5. Controls (Software) Director
 - Strategy
   1. Strategy Director
-  1. Drive Coach
-  1. Head Strategist
-  1. Head Scout
+  2. Drive Coach
+  3. Head Strategist
+  4. Head Scout
 
 ## Bylaw 4
 
