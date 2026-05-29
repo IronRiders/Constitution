@@ -26,16 +26,16 @@ There will be a folder, accessible to all, in which important documents will be 
 - It will be the responsibility of the leads to make sure a copy of all the important documents pertaining to the government of the club is accessible within the file.
 - The leads of each division will determine which documents are important.
 - A mentor may overrule a lead by placing or removing any document they deem necessary.
-- This will be a hardcopy paper file or an electronic file.
+- This will be a hard copy paper file or an electronic file.
 
 ## Bylaw 3
 
 This Bylaw establishes the chain of club command and order of succession.
 
 1. Executives
-1. Directors
-1. Leads
-1. Members
+2. Directors
+3. Leads
+4. Members
 
 Drive Coach and Mentors exist outside of this structure, but report to Executives.
 
@@ -43,22 +43,22 @@ In the event that a captain is needed, the order is:
 
 - Operations
   1. Operations Executive/Captain
-  1. Communications Director
-  1. Strategy Director
-  1. Finance Director
-  1. Marketing Director
-  1. Outreach Director
+  2. Communications Director
+  3. Strategy Director
+  4. Finance Director
+  5. Marketing Director
+  6. Outreach Director
 - Technical
   1. Robot Executive/Captain
-  1. Strategy Director
-  1. Design Director
-  1. Build Director
-  1. Controls (Software) Director
+  2. Strategy Director
+  3. Design Director
+  4. Build Director
+  5. Controls (Software) Director
 - Strategy
   1. Strategy Director
-  1. Drive Coach
-  1. Head Strategist
-  1. Head Scout
+  2. Drive Coach
+  3. Head Strategist
+  4. Head Scout
 
 ## Bylaw 4
 
@@ -475,11 +475,10 @@ This bylaw will require the team and it’s leadership to comply with the follow
 
 - Require Student Leaders and the Team’s Mentors/Coaches to through and discuss Equity Diversity and Inclusion Training modules. This must be completed before build season starts at the latest. (It should be noted and recommended that doing this before starting the school year will have the most beneficial effect.)
   - Specifically Require the following modules or equivalent training determined by Mentors/Coaches
-    - Strategies for Inspiring Success Modules 1-3
-      - Module 1: Invisible Equities
-      - Module 2: Hidden Messages
-      - Module 3: Inspiring Success
-   [Link to modules](https://info.firstinspires.org/inspiring-success?utm_source=first-inspires&utm_medium=cta&utm_campaign=edi-training-019&utm_content=edi-rl&hsCtaTracking=9cd2572a-9f1f-4b33-b29f-38dcd801b01f%7C7e38341d-ffee-44c4-9bdc-8f129524da24)
+    - Strategies for [Inspiring Success Modules 1-3](https://info.firstinspires.org/inspiring-success?utm_source=first-inspires&utm_medium=cta&utm_campaign=edi-training-019&utm_content=edi-rl&hsCtaTracking=9cd2572a-9f1f-4b33-b29f-38dcd801b01f%7C7e38341d-ffee-44c4-9bdc-8f129524da24)
+      1. Invisible Equities
+      2. Hidden Messages
+      3. Inspiring Success
   - Specifically recommend, but do not require, the following modules
     - Inspiring Youth Voices Modules 1 - 3
   - Generally encourages leads and mentors/coaches to explore the following resources from FIRST or take the following actions
@@ -517,4 +516,4 @@ A member can nominate another member for an appointed position and the lead/lead
 Absentee voting is allowed. However some extra rules apply, namely:
 
 1. One must contact a coach with the intent to absent-vote at least 48 hours before the vote commences.
-1. One must vote prior to the physical election
+2. One must vote prior to the physical election
